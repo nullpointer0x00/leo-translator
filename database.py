@@ -17,11 +17,11 @@ class MySqlDataSouce:
     def add_search_history(self, searchTerm, lang):
         cursor = self.cnx.cursor()
         add_search = ("INSERT INTO SearchHistory "
-                        "(search_term, lang) "
+                        "(SearchTerm, Lang) "
                         "VALUES (%s, %s)")
         search_data = (searchTerm, lang)
         cursor.execute(add_search, search_data)
         search_id = cursor.lastrowid
         self.cnx.commit()
         return search_id
-    
+

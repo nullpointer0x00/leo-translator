@@ -3,6 +3,7 @@ from lxml import html
 from parser import LeoParser
 from fetcher import LeoFetcher
 from wordextractor import WordExtractor
+from database import MySqlDataSouce
 import unittest
 
 
@@ -10,7 +11,7 @@ class TestParser(unittest.TestCase):
 
     def test_extract_translation_nouns(self):
         parser = LeoParser()
-        with open('resources/story-search.xml', 'r') as hall:
+        with open('resources/test/story-search.xml', 'r') as hall:
             data = hall.read()
         result = parser.extract_translation_nouns(data)
         self.assertTrue(16, len(result))
@@ -57,3 +58,7 @@ class TestParser(unittest.TestCase):
         actual = extractor.get_words_from_text(rawText)
         self.assertListEqual(actual, expected)
 
+    def test_database_add_search_term(self):
+        database = MySqlDataSouce()
+        id = database.add_search_history("TEST", "TE")
+        self.assertTrue(id > 0)
