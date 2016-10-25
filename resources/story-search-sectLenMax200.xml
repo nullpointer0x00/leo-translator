@@ -1,0 +1,4607 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml leorendertarget="1" dictQueryXSLT="0" lion="0" api="" lp="ende" lang="en">
+    <advMedia url="/advMedia/ende-dd56fda9.xml"/>
+    <search original="story" normalized="story" where="0" lp="ende" lang="en" hitcount="100" hitWordCntLeft="99"
+            hitWordCntRight="2"/>
+    <sectionlist sectionsort="bestPrio">
+        <section sctnum="0" sctName="subst" sctTitle="Nouns" sctCount="69" sctTotalCnt="116" sctDirectCnt="13">
+            <entry uid="281246" langlvl="B">
+                <side hc="1" lang="en">
+                    <repr>
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>story</word>
+                    </words>
+                    <search>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1281246">
+                        <pron url="ECg0neflUj0a0AdFM3C_YA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Geschichte &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Geschichten
+                        </small>
+                    </repr>
+                    <words>
+                        <word>die Geschichte</word>
+                    </words>
+                    <search>
+                        <word>Geschichte</word>
+                    </search>
+                    <ibox ajaxid="3281246">
+                        <pron url="e1jY9xGv37c05xR1bExHBA"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHypCmrUBtd5DdWasA5HfVdw0tXKWkla0MyB-kr0MpblDEerJUsnZFNVQ6xfr1WvlShp8j6sLgbQbdCO9ZfGyfdgy0AvxzQfbVEEDlb1StB5PFSLxCJrdLtlrsQ-f2U6wTC0Xg7Vt0aoxAEndx"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="281328" langlvl="A">
+                <side hc="1" lang="en">
+                    <repr>
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <m>/</m>
+                        storey
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="BE">BE</t>
+                                </m>
+                            </sup>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>story</word>
+                        <word>storey</word>
+                    </words>
+                    <search>
+                        <word>story</word>
+                        <word>storey</word>
+                    </search>
+                    <ibox ajaxid="1281328">
+                        <pron url="ECg0neflUj0a0AdFM3C_YA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>das Geschoss &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Geschosse
+                        </small>
+                    </repr>
+                    <words>
+                        <word>das Geschoss</word>
+                    </words>
+                    <search>
+                        <word>Geschoss</word>
+                    </search>
+                    <ibox ajaxid="3281328">
+                        <pron url="juyq_QSlWPsK37Tid6kVYA"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHylCiLUc_9ROcDG0HPGhR9At5Xq8pgayKLtyiKpj4NwbFUnSf8LdNulI5S7x1QKjJFVzn-YOfKouekzYY6XfJrBK0H3vtGjFKTVznusG-LQidF-_ZfmwDNkpy3Pz3W_9IUQZ8d0K06BWC0DSAAgdm"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="281332" langlvl="A">
+                <side hc="1" lang="en">
+                    <repr>
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <m>/</m>
+                        storey
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="BE">BE</t>
+                                </m>
+                            </sup>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>story</word>
+                        <word>storey</word>
+                    </words>
+                    <search>
+                        <word>story</word>
+                        <word>storey</word>
+                    </search>
+                    <ibox ajaxid="1281332">
+                        <pron url="ECg0neflUj0a0AdFM3C_YA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>der Stock &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Stöcke
+                        </small>
+                        <m>&#160;</m>
+                        <m>&#160;</m>
+                        <m>-</m>
+                        <small>
+                            <i>in einem Gebäude</i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>der Stock</word>
+                    </words>
+                    <search>
+                        <word>Stock</word>
+                    </search>
+                    <ibox ajaxid="3281332">
+                        <pron url="TjmnyWwIaGXAV1YcTAOvIg"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHytCk7UAo9gIaSe1ZZGmUtAhtXzGoTK-IxR299Ve3NoqL0Lle_LBG-9M7AXGtGTRNFZ5xrALo7hzF0u_ZfmmLN0k0hqW3XfbQEYX_7xlv7QbeBexZfWyLNUl8hmSsUrZSCExmrlnv9gseEugb4vNANUd9"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="281330" langlvl="A">
+                <side hc="1" lang="en">
+                    <repr>
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <m>/</m>
+                        storey
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="BE">BE</t>
+                                </m>
+                            </sup>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>story</word>
+                        <word>storey</word>
+                    </words>
+                    <search>
+                        <word>story</word>
+                        <word>storey</word>
+                    </search>
+                    <ibox ajaxid="1281330">
+                        <pron url="ECg0neflUj0a0AdFM3C_YA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>das Stockwerk &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Stockwerke
+                        </small>
+                    </repr>
+                    <words>
+                        <word>das Stockwerk</word>
+                    </words>
+                    <search>
+                        <word>Stockwerk</word>
+                    </search>
+                    <ibox ajaxid="3281330">
+                        <pron url="g2LA9NYinHjzodI5bzZzUA"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHypCibUApdgIaSe1ZZGmUtAhtXzGoTa-I292nq4d3bE2N3flZ_HnLs1z0ALP1VfbMkxplbFSVbNHFTzSUpSxKrdKvDX7uGLZITYJksUB7ElDcy_cBuWyLNHZ8huS3Q7dbCl0_7Vj28hDbT3YZeVAE"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="281244" langlvl="A">
+                <side hc="1" lang="en">
+                    <repr>
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <m>/</m>
+                        storey
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="BE">BE</t>
+                                </m>
+                            </sup>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>story</word>
+                        <word>storey</word>
+                    </words>
+                    <search>
+                        <word>story</word>
+                        <word>storey</word>
+                    </search>
+                    <ibox ajaxid="1281244">
+                        <pron url="ECg0neflUj0a0AdFM3C_YA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Etage &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Etagen
+                        </small>
+                    </repr>
+                    <words>
+                        <word>die Etage</word>
+                    </words>
+                    <search>
+                        <word>Etage</word>
+                    </search>
+                    <ibox ajaxid="3281244">
+                        <pron url="xEexRV1yDdwmHYJ9zTmUmw"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHypCmrUBtd5DdWasA5HfVdw0tXKWkF6lIW1697Rj7OgqL0vdZ-HmLsB00i2aVRKlLkwgkr0K29eMHSmOZ4XfPrxKzH_lvCu_JRZ087xGd7hBFkDQBtGxKvUh1BXrsGapQFIKANVrV"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="759272">
+                <side hc="1" lang="en">
+                    <repr>
+                        <b>story</b>
+                        <m>&#160;</m>
+                        <m>&#160;</m>
+                        <m>-</m>
+                        <small>
+                            <i>report in a newspaper</i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>story</word>
+                    </words>
+                    <search>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1759272">
+                        <pron url="ECg0neflUj0a0AdFM3C_YA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>der Artikel &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Artikel
+                        </small>
+                    </repr>
+                    <words>
+                        <word>der Artikel</word>
+                    </words>
+                    <search>
+                        <word>Artikel</word>
+                    </search>
+                    <ibox ajaxid="3759272">
+                        <pron url="i_toumy61Gm3QrrorlsZlw"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHypCmrUKstVNbyP2G5G4St5KrGKauAbsAWxvkqAEwbEoN3flefHnLs1z0ALPlVfbMkxplbVvo4hzF0u_ZfmmLN0k0hqW3XfbQEYX_7xlv7QbeBexZfWyLNUl8hmSsUrZSCExmrlnv9gseEugb4vNAN-qR"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="281307">
+                <side hc="1" lang="en">
+                    <repr>
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>story</word>
+                    </words>
+                    <search>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1281307">
+                        <pron url="ECg0neflUj0a0AdFM3C_YA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Erzählung &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Erzählungen
+                        </small>
+                    </repr>
+                    <words>
+                        <word>die Erzählung</word>
+                    </words>
+                    <search>
+                        <word>Erzählung</word>
+                    </search>
+                    <ibox ajaxid="3281307">
+                        <pron url="pUdvHbH57ZPWD8YfAxIB1A"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHy5CibUOpNgIaSe1ZZGmUtAhtXrGpyarg6C5l7satrEqSVbpY8PdNu5IyCvz1VzsISxvn6gBeelCeCHQCPvVVIdI0hef33KwXjZ0xrEKuLhINEyxZ5neDdcpvBPbtGrZSiB4i6VuxtAsAAYNK"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="281306">
+                <side hc="1" lang="en">
+                    <repr>
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>story</word>
+                    </words>
+                    <search>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1281306">
+                        <pron url="ECg0neflUj0a0AdFM3C_YA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>der Schwank &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Schwänke
+                        </small>
+                    </repr>
+                    <words>
+                        <word>der Schwank</word>
+                    </words>
+                    <search>
+                        <word>Schwank</word>
+                    </search>
+                    <ibox ajaxid="3281306">
+                        <pron url="48m3bTRrwzNo_f3Bv2rToQ"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHy9CmrUBttgIaSe1ZZGmUtAhtXzGtja5N_Z8kLtj4N8uEU_UXdXoMMBz1Cvp6FyRISxvn6UBgtVUFRzSb5LfLqlK2HLxwAzZISIdld9ruN1ISXK9Y5bfIrhK0HbR8w61TCQVkv0O3dpIFUO9H4nVLMjUs"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="734134">
+                <side hc="1" lang="en">
+                    <repr>
+                        <b>story</b>
+                        line
+                        <m>&#160;</m>
+                        <m>&#160;</m>
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="also">also:</t>
+                                </m>
+                            </i>
+                        </small>
+                        storyline
+                    </repr>
+                    <words>
+                        <word>story line</word>
+                        <word>storyline</word>
+                    </words>
+                    <search>
+                        <word>story</word>
+                        <word>line</word>
+                        <word>storyline</word>
+                    </search>
+                    <ibox ajaxid="1734134">
+                        <pron url="A_JkZTUrAUcnZ41b7zgXkw"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="1" lang="de">
+                    <repr>die <b>Story</b> &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Storys
+                        </small>
+                    </repr>
+                    <words>
+                        <word>die Story</word>
+                    </words>
+                    <search>
+                        <word>Story</word>
+                    </search>
+                    <ibox ajaxid="3734134">
+                        <pron url="qmy16Jq2U6tZmQwbrpj-_Q"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHydClrUO_9ROcDG0HPGhR9At5XuouhSjOXQRytlS2dAUFVrrf_XdG-xKqnuP9Qu_JB1087Jl7LSOeCOqZfmxLMkhxga7uwPsKUBz0tMGtnsuFULzC531R9FIyBrxrQahVyAXAAYDa"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="251259">
+                <side hc="0" lang="en">
+                    <repr>saga</repr>
+                    <words>
+                        <word>saga</word>
+                    </words>
+                    <search>
+                        <word>saga</word>
+                    </search>
+                    <ibox ajaxid="1251259">
+                        <pron url="HeWW9gdOJuv5rTHqA28NMg"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="1" lang="de">
+                    <repr>die <b>Story</b> &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Storys
+                        </small>
+                    </repr>
+                    <words>
+                        <word>die Story</word>
+                    </words>
+                    <search>
+                        <word>Story</word>
+                    </search>
+                    <ibox ajaxid="3251259">
+                        <pron url="qmy16Jq2U6tZmQwbrpj-_Q"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHydClrUO_9ROcDG0HPGhR9At5XuouhSjOXQRytlS2dAUFVrrf_XdG-xKqnuP9Qu_JB1087Jl7LSOeCOqZfmxLMkhxga7uwPsKUBz0tMGtnsuFULzC531R9FIyBrxrQahVyAXAAYDa"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="824621">
+                <side hc="1" lang="en">
+                    <repr>
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>story</word>
+                    </words>
+                    <search>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1824621">
+                        <pron url="ECg0neflUj0a0AdFM3C_YA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>der (
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="also">auch:</t>
+                                </m>
+                            </i>
+                        </small>
+                        das) Döntje
+                        <small>
+                            <i>(<m>Norddt.</m>)
+                            </i>
+                        </small>
+                        <small>
+                            <i>[
+                                <m>
+                                    <t n="phr_coll">ugs.</t>
+                                </m>
+                                ]
+                            </i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>der Döntje</word>
+                        <word>das Döntje</word>
+                    </words>
+                    <search>
+                        <word>Döntje</word>
+                    </search>
+                    <meta>
+                        <phrasing type="coll"/>
+                    </meta>
+                    <ibox ajaxid="3824621">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                    <phrasinggroup type="slang"/>
+                </info>
+            </entry>
+            <entry uid="890912">
+                <side hc="1" lang="en">
+                    <repr>
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <m>/</m>
+                        storey
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="BE">BE</t>
+                                </m>
+                            </sup>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>story</word>
+                        <word>storey</word>
+                    </words>
+                    <search>
+                        <word>story</word>
+                        <word>storey</word>
+                    </search>
+                    <ibox ajaxid="1890912">
+                        <pron url="ECg0neflUj0a0AdFM3C_YA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>das Geschoß
+                        <small>
+                            <i>(<m>Österr.</m>)
+                            </i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>das Geschoß</word>
+                    </words>
+                    <search>
+                        <word>Geschoß</word>
+                    </search>
+                    <ibox ajaxid="3890912">
+                        <pron url="vEl8-VRVKHWJNIKzQGAhuw"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="666580">
+                <side hc="1" lang="en">
+                    <repr>
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>story</word>
+                    </words>
+                    <search>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1666580">
+                        <pron url="ECg0neflUj0a0AdFM3C_YA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Mär
+                        <m>&#160;</m>
+                        <m>&#160;</m>
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="also">auch:</t>
+                                </m>
+                            </i>
+                        </small>
+                        Märe &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Mären
+                        </small>
+                        <m>&#160;</m>
+                        <m>&#160;</m>
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="archaic">veraltet</t>
+                                </m>
+                            </i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>die Mär</word>
+                        <word>die Märe</word>
+                    </words>
+                    <search>
+                        <word>Mär</word>
+                        <word>Märe</word>
+                    </search>
+                    <meta></meta>
+                    <ibox ajaxid="3666580">
+                        <pron url="y3AXDmbqn70v8IJqVX4W-g"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHy5CibUOpNgIaSe1ZZGmUtAhtXLGFiR1MnMRytlS2dAUFVrrf_XdG-xKqnuPdQu_JB1087Jl0bpyb2HQC_vNR9NUsQ-V6P-0LkEVkv0I2tgPNk-xT5DZLrdMvRf_pRHRSjOnw&amp;kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHypCmrUBtd5DdWasA5HfVdw0tXKWmF4S5G1v97Rj7OgqL0vdZ-HmLsB00i2aVRKlLkwgkr0K29eMHSmOZ4XfPrxKzH_lvCu_JRZ087xGd7hBFkDQBtGxKvUh1BXrsGapQFIKANm1B"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                    <phrasinggroup type="dated"/>
+                </info>
+            </entry>
+            <entry uid="281314">
+                <side hc="1" lang="en">
+                    <repr>
+                        <b>story</b>
+                        line
+                        <m>&#160;</m>
+                        <m>&#160;</m>
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="also">also:</t>
+                                </m>
+                            </i>
+                        </small>
+                        storyline
+                    </repr>
+                    <words>
+                        <word>story line</word>
+                        <word>storyline</word>
+                    </words>
+                    <search>
+                        <word>story</word>
+                        <word>line</word>
+                        <word>storyline</word>
+                    </search>
+                    <ibox ajaxid="1281314">
+                        <pron url="A_JkZTUrAUcnZ41b7zgXkw"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Handlung &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Handlungen
+                        </small>
+                        <m>&#160;</m>
+                        <m>&#160;</m>
+                        <m>-</m>
+                        <small>
+                            <i>Buch, Film</i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>die Handlung</word>
+                    </words>
+                    <search>
+                        <word>Handlung</word>
+                    </search>
+                    <ibox ajaxid="3281314">
+                        <pron url="UHEaHDIzW2OVzN8QJBCOpQ"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHy5CibUOpNgIaSe1ZZGmUtAhtXfGtCa_JA1xlakI3t0XCHPUXfnFFdVQ7BXG1WSwNFZ5xrwLe7hDF0u_N_mnLNUk0g75wQ_PLk0gkrwB2UkPeiDQZ_j-QrFgmhea2WPbOEht7NBlAAA92"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="919413">
+                <side hc="1" lang="en">
+                    <repr>
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        proper
+                    </repr>
+                    <words>
+                        <word>story proper</word>
+                    </words>
+                    <search>
+                        <word>story</word>
+                        <word>proper</word>
+                    </search>
+                    <ibox ajaxid="1919413">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>das Vollgeschoss &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Vollgeschosse
+                        </small>
+                    </repr>
+                    <words>
+                        <word>das Vollgeschoss</word>
+                    </words>
+                    <search>
+                        <word>Vollgeschoss</word>
+                    </search>
+                    <ibox ajaxid="3919413">
+                        <pron url="dJcw3gtca-xhhaZm1rt03g"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHylCiLUc_9ROcDG0HPGhR9At5XCtuQa9Jyt4mKoHorlVEerLUsnZFNVQ6xfr1WvlShp8j6sLAbQbfCOrZfGyfddM8h-f3268VCx85csGQbUbdC-2e_a8Ir9KvSXzvE61TCQVkvQO1foqeEugb4vDANv5l"
+                                  word=""/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="281325">
+                <side hc="1" lang="en">
+                    <repr>
+                        <b>story</b>
+                        line
+                        <m>&#160;</m>
+                        <m>&#160;</m>
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="also">also:</t>
+                                </m>
+                            </i>
+                        </small>
+                        storyline
+                    </repr>
+                    <words>
+                        <word>story line</word>
+                        <word>storyline</word>
+                    </words>
+                    <search>
+                        <word>story</word>
+                        <word>line</word>
+                        <word>storyline</word>
+                    </search>
+                    <ibox ajaxid="1281325">
+                        <pron url="A_JkZTUrAUcnZ41b7zgXkw"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>Handlung einer Geschichte</repr>
+                    <words>
+                        <word>Handlung einer Geschichte</word>
+                    </words>
+                    <search>
+                        <word>Handlung</word>
+                        <word>Geschichte</word>
+                    </search>
+                    <ibox ajaxid="3281325">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="906280">
+                <side hc="1" lang="en">
+                    <repr>
+                        <b>story</b>
+                        of so.'s life
+                    </repr>
+                    <words>
+                        <word>story of so.'s life</word>
+                    </words>
+                    <search>
+                        <word>story</word>
+                        <word>life</word>
+                    </search>
+                    <ibox ajaxid="1906280">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Lebensgeschichte</repr>
+                    <words>
+                        <word>die Lebensgeschichte</word>
+                    </words>
+                    <search>
+                        <word>Lebensgeschichte</word>
+                    </search>
+                    <ibox ajaxid="3906280">
+                        <pron url="firHk4p17NSIE3PB_0gQKA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="1060942">
+                <side hc="1" lang="en">
+                    <repr>
+                        <b>story</b>
+                        line
+                        <m>&#160;</m>
+                        <m>&#160;</m>
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="also">also:</t>
+                                </m>
+                            </i>
+                        </small>
+                        storyline [
+                        <m>
+                            <t n="rea_thea">thea.</t>
+                        </m>
+                        ][
+                        <m>
+                            <t n="rea_lit">lit.</t>
+                        </m>
+                        ]
+                    </repr>
+                    <words>
+                        <word>story line</word>
+                        <word>storyline</word>
+                    </words>
+                    <search>
+                        <word>story</word>
+                        <word>line</word>
+                        <word>storyline</word>
+                    </search>
+                    <ibox ajaxid="11060942">
+                        <pron url="A_JkZTUrAUcnZ41b7zgXkw"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Handlungslinie</repr>
+                    <words>
+                        <word>die Handlungslinie</word>
+                    </words>
+                    <search>
+                        <word>Handlungslinie</word>
+                    </search>
+                    <ibox ajaxid="31060942">
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                    <realmgroup type="arts"/>
+                </info>
+            </entry>
+            <entry uid="1060941">
+                <side hc="1" lang="en">
+                    <repr>
+                        <b>story</b>
+                        line
+                        <m>&#160;</m>
+                        <m>&#160;</m>
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="also">also:</t>
+                                </m>
+                            </i>
+                        </small>
+                        storyline [
+                        <m>
+                            <t n="rea_thea">thea.</t>
+                        </m>
+                        ]
+                    </repr>
+                    <words>
+                        <word>story line</word>
+                        <word>storyline</word>
+                    </words>
+                    <search>
+                        <word>story</word>
+                        <word>line</word>
+                        <word>storyline</word>
+                    </search>
+                    <ibox ajaxid="11060941">
+                        <pron url="A_JkZTUrAUcnZ41b7zgXkw"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>der Handlungsstrang</repr>
+                    <words>
+                        <word>der Handlungsstrang</word>
+                    </words>
+                    <search>
+                        <word>Handlungsstrang</word>
+                    </search>
+                    <ibox ajaxid="31060941">
+                        <pron url="LQw978GbWyEPghrAYa1nnA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                    <realmgroup type="arts"/>
+                </info>
+            </entry>
+            <entry uid="37108">
+                <side hc="1" lang="en">
+                    <repr>bedtime
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>bedtime story</word>
+                    </words>
+                    <search>
+                        <word>bedtime</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="137108">
+                        <pron url="LWplZUC322SiTF5u64BThw"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Gutenachtgeschichte</repr>
+                    <words>
+                        <word>die Gutenachtgeschichte</word>
+                    </words>
+                    <search>
+                        <word>Gutenachtgeschichte</word>
+                    </search>
+                    <ibox ajaxid="337108">
+                        <pron url="P2iT9dx63bS9EhDyuFrJmA"/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="1168015">
+                <side hc="1" lang="en">
+                    <repr>horror
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>horror story</word>
+                    </words>
+                    <search>
+                        <word>horror</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="11168015">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>das Gräuelmärchen</repr>
+                    <words>
+                        <word>das Gräuelmärchen</word>
+                    </words>
+                    <search>
+                        <word>Gräuelmärchen</word>
+                    </search>
+                    <ibox ajaxid="31168015">
+                        <pron url="CM2ZI_ReykAH2rkeFtVwBg"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="941443">
+                <side hc="1" lang="en">
+                    <repr>success
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>success story</word>
+                    </words>
+                    <search>
+                        <word>success</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1941443">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Erfolgsgeschichte</repr>
+                    <words>
+                        <word>die Erfolgsgeschichte</word>
+                    </words>
+                    <search>
+                        <word>Erfolgsgeschichte</word>
+                    </search>
+                    <ibox ajaxid="3941443">
+                        <pron url="fEZtwJ20MkiQHBhmdD7SyQ"/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="941444">
+                <side hc="1" lang="en">
+                    <repr>success
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>success story</word>
+                    </words>
+                    <search>
+                        <word>success</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1941444">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Erfolgsstory &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Erfolgsstorys/die Erfolgsstories
+                        </small>
+                    </repr>
+                    <words>
+                        <word>die Erfolgsstory</word>
+                    </words>
+                    <search>
+                        <word>Erfolgsstory</word>
+                    </search>
+                    <ibox ajaxid="3941444">
+                        <pron url="xIFJQN0Gid_Me7xTaj2d7w"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHydClrUO_9ROcDG0HPGhR9At5X2-sxa-LCt6iKobo7lfEerLUsnZFNVQ6xfr1WvlShp8j6sLgbQbdCO9ZfGyfdgy0AvxzQfbVEEDlb1StB5PFSLxCJrdLtlrsQ-f2U6wTC0Xg7Vt0aoxAECVh&amp;kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHydki4UOo9lSMz-wAoG5LNkzuWKW6AaUMid7l7YIoqRScueqffzkKu9IyC3z5m7BdCIgmtEdka5CICK8CpvdQd0VhReJ3261Sjx85cUGv_UbdCO2Rva8dbZI0BbQsQrxISQV8dBnqbBWCkDSAACqi"
+                                  word=""/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="1168016">
+                <side hc="1" lang="en">
+                    <repr>horror
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>horror story</word>
+                    </words>
+                    <search>
+                        <word>horror</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="11168016">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Gräuelgeschichte</repr>
+                    <words>
+                        <word>die Gräuelgeschichte</word>
+                    </words>
+                    <search>
+                        <word>Gräuelgeschichte</word>
+                    </search>
+                    <ibox ajaxid="31168016">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="811683">
+                <side hc="1" lang="en">
+                    <repr>bedtime
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>bedtime story</word>
+                    </words>
+                    <search>
+                        <word>bedtime</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1811683">
+                        <pron url="LWplZUC322SiTF5u64BThw"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Gute-Nacht-Geschichte</repr>
+                    <words>
+                        <word>die Gute-Nacht-Geschichte</word>
+                    </words>
+                    <search>
+                        <word>Gute-Nacht-Geschichte</word>
+                    </search>
+                    <ibox ajaxid="3811683">
+                        <pron url="K4XDOyX63yyFXLGl-HuWCg"/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="63549">
+                <side hc="1" lang="en">
+                    <repr>cock-and-bull
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>cock-and-bull story</word>
+                    </words>
+                    <search>
+                        <word>cock-and-bull</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="163549">
+                        <pron url="57jFUpRUuCXiEYBUmfkHLw"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>das Jägerlatein &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_nopl">kein Pl.</t>
+                                </m>
+                            </i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>das Jägerlatein</word>
+                    </words>
+                    <search>
+                        <word>Jägerlatein</word>
+                    </search>
+                    <ibox ajaxid="363549">
+                        <pron url="-0mVR2cB4-KMV1mXcxjXZw"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHypCnrUNtN9IcxWoB9GhS9csqx6PuAa8fStXXxAIo7BKfG6sBp27NdBxzSf3527BcyANz99S0dJHaTW8UpCxfLUz0h-ctWzdJCIdlt2qxdRHA1WxUpPRJolysYuc3260aix087xj2dkKfCfcZfmwVq1BzhDxAAStu"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="63551">
+                <side hc="1" lang="en">
+                    <repr>cock-and-bull
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>cock-and-bull story</word>
+                    </words>
+                    <search>
+                        <word>cock-and-bull</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="163551">
+                        <pron url="57jFUpRUuCXiEYBUmfkHLw"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Lügengeschichte</repr>
+                    <words>
+                        <word>die Lügengeschichte</word>
+                    </words>
+                    <search>
+                        <word>Lügengeschichte</word>
+                    </search>
+                    <ibox ajaxid="363551">
+                        <pron url="iNtLSjnokU7WReQDAcqGeA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="63550">
+                <side hc="1" lang="en">
+                    <repr>cock-and-bull
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>cock-and-bull story</word>
+                    </words>
+                    <search>
+                        <word>cock-and-bull</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="163550">
+                        <pron url="57jFUpRUuCXiEYBUmfkHLw"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>das Seemannsgarn &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_nopl">kein Pl.</t>
+                                </m>
+                            </i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>das Seemannsgarn</word>
+                    </words>
+                    <search>
+                        <word>Seemannsgarn</word>
+                    </search>
+                    <ibox ajaxid="363550">
+                        <pron url="F1ZG5PQOOwJQLID4Htv-UQ"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHypCibUApd55bSP2G5G4St5KrGKauAbsEy14lrsOv7BVetm5AYLZF8F90B3xxVXZUBwVxuRl0bRUeTa2C8K0i6dIvxD72TLbQEUX87d7sN4ydFa2Cs-8D7lEsQuc3260aix06Lln2dkKfCfcZfmwJK0wzhDxAAzO6"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="77959">
+                <side hc="1" lang="en">
+                    <repr>cover
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>cover story</word>
+                    </words>
+                    <search>
+                        <word>cover</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="177959">
+                        <pron url="zpfAdengSjbK6VWfEpBI9g"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Geschichte &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Geschichten
+                        </small>
+                    </repr>
+                    <words>
+                        <word>die Geschichte</word>
+                    </words>
+                    <search>
+                        <word>Geschichte</word>
+                    </search>
+                    <ibox ajaxid="377959">
+                        <pron url="e1jY9xGv37c05xR1bExHBA"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHypCmrUBtd5DdWasA5HfVdw0tXKWkla0MyB-kr0MpblDEerJUsnZFNVQ6xfr1WvlShp8j6sLgbQbdCO9ZfGyfdgy0AvxzQfbVEEDlb1StB5PFSLxCJrdLtlrsQ-f2U6wTC0Xg7Vt0aoxAEndx"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="77960">
+                <side hc="1" lang="en">
+                    <repr>cover
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>cover story</word>
+                    </words>
+                    <search>
+                        <word>cover</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="177960">
+                        <pron url="zpfAdengSjbK6VWfEpBI9g"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Titelgeschichte</repr>
+                    <words>
+                        <word>die Titelgeschichte</word>
+                    </words>
+                    <search>
+                        <word>Titelgeschichte</word>
+                    </search>
+                    <ibox ajaxid="377960">
+                        <pron url="lAmhH8VeDFz_j-ixZ8uhmw"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="145436">
+                <side hc="1" lang="en">
+                    <repr>horror
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>horror story</word>
+                    </words>
+                    <search>
+                        <word>horror</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1145436">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>das Schauermärchen</repr>
+                    <words>
+                        <word>das Schauermärchen</word>
+                    </words>
+                    <search>
+                        <word>Schauermärchen</word>
+                    </search>
+                    <ibox ajaxid="3145436">
+                        <pron url="-7A_byyTr71ZQFNuU0h2ww"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="708267">
+                <side hc="1" lang="en">
+                    <repr>kiss-and-tell
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>kiss-and-tell story</word>
+                    </words>
+                    <search>
+                        <word>kiss-and-tell</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1708267">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Enthüllungsstory</repr>
+                    <words>
+                        <word>die Enthüllungsstory</word>
+                    </words>
+                    <search>
+                        <word>Enthüllungsstory</word>
+                    </search>
+                    <ibox ajaxid="3708267">
+                        <pron url="BNW9mTz_ipJVHyHwDvJ3gg"/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="13507">
+                <side hc="1" lang="en">
+                    <repr>adventure
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>adventure story</word>
+                    </words>
+                    <search>
+                        <word>adventure</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="113507">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Abenteuererzählung</repr>
+                    <words>
+                        <word>die Abenteuererzählung</word>
+                    </words>
+                    <search>
+                        <word>Abenteuererzählung</word>
+                    </search>
+                    <ibox ajaxid="313507">
+                        <pron url="5BAtKoiBRsirOvPL1mAoGA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="13505">
+                <side hc="1" lang="en">
+                    <repr>adventure
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>adventure story</word>
+                    </words>
+                    <search>
+                        <word>adventure</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="113505">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Abenteuergeschichte</repr>
+                    <words>
+                        <word>die Abenteuergeschichte</word>
+                    </words>
+                    <search>
+                        <word>Abenteuergeschichte</word>
+                    </search>
+                    <ibox ajaxid="313505">
+                        <pron url="YlFgUshGJMgp2dOv1-4Wfg"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="13506">
+                <side hc="1" lang="en">
+                    <repr>adventure
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>adventure story</word>
+                    </words>
+                    <search>
+                        <word>adventure</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="113506">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>der Abenteuerroman</repr>
+                    <words>
+                        <word>der Abenteuerroman</word>
+                    </words>
+                    <search>
+                        <word>Abenteuerroman</word>
+                    </search>
+                    <ibox ajaxid="313506">
+                        <pron url="LgKmXFbvgh_-spzBkNfpCA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="29340">
+                <side hc="1" lang="en">
+                    <repr>atrocity
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>atrocity story</word>
+                    </words>
+                    <search>
+                        <word>atrocity</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="129340">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Schauergeschichte</repr>
+                    <words>
+                        <word>die Schauergeschichte</word>
+                    </words>
+                    <search>
+                        <word>Schauergeschichte</word>
+                    </search>
+                    <ibox ajaxid="329340">
+                        <pron url="DfoOndYPOjHpuEtrHlSKvQ"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="29665">
+                <side hc="1" lang="en">
+                    <repr>attic
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>attic story</word>
+                    </words>
+                    <search>
+                        <word>attic</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="129665">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>das Dachgeschoss &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Dachgeschosse
+                        </small>
+                    </repr>
+                    <words>
+                        <word>das Dachgeschoss</word>
+                    </words>
+                    <search>
+                        <word>Dachgeschoss</word>
+                    </search>
+                    <ibox ajaxid="329665">
+                        <pron url="IKo6sMV984uPOgv_eZxFeg"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHylCiLUc_9ROcDG0HPGhR9At5X6_tga5Jyt4mKoHorlVEerLUsnZFNVQ6xfr1WvlShp8j6sLAbQbfCOrZfGyfddM8h-f3268VCx85csGQbUbdC-2e_a8Ir9KvSXzvE61TCQVkvQO1foqeEugb4vDANG81"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="32494">
+                <side hc="1" lang="en">
+                    <repr>background
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>background story</word>
+                    </words>
+                    <search>
+                        <word>background</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="132494">
+                        <pron url="HyyjOq2MMHN3dxokrzXbpQ"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Rahmenhandlung</repr>
+                    <words>
+                        <word>die Rahmenhandlung</word>
+                    </words>
+                    <search>
+                        <word>Rahmenhandlung</word>
+                    </search>
+                    <ibox ajaxid="332494">
+                        <pron url="-I7IOihavzC9w8-Vl8VJpA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="32492">
+                <side hc="1" lang="en">
+                    <repr>background
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>background story</word>
+                    </words>
+                    <search>
+                        <word>background</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="132492">
+                        <pron url="HyyjOq2MMHN3dxokrzXbpQ"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>Schilderung der Zusammenhänge</repr>
+                    <words>
+                        <word>Schilderung der Zusammenhänge</word>
+                    </words>
+                    <search>
+                        <word>Schilderung</word>
+                        <word>Zusammenhänge</word>
+                    </search>
+                    <ibox ajaxid="332492">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="32493">
+                <side hc="1" lang="en">
+                    <repr>background
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>background story</word>
+                    </words>
+                    <search>
+                        <word>background</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="132493">
+                        <pron url="HyyjOq2MMHN3dxokrzXbpQ"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>der Stimmungsbericht</repr>
+                    <words>
+                        <word>der Stimmungsbericht</word>
+                    </words>
+                    <search>
+                        <word>Stimmungsbericht</word>
+                    </search>
+                    <ibox ajaxid="332493">
+                        <pron url="kTqmN1Y-L1rtqku0yDWCiA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="58536">
+                <side hc="1" lang="en">
+                    <repr>children's
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>children's story</word>
+                    </words>
+                    <search>
+                        <word>children's</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="158536">
+                        <pron url="6syCuPMyWTBGfELTMumqww"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Kindergeschichte</repr>
+                    <words>
+                        <word>die Kindergeschichte</word>
+                    </words>
+                    <search>
+                        <word>Kindergeschichte</word>
+                    </search>
+                    <ibox ajaxid="358536">
+                        <pron url="anHHQpWjh761tJNbYTJTQA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="63548">
+                <side hc="1" lang="en">
+                    <repr>cock-and-bull
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>cock-and-bull story</word>
+                    </words>
+                    <search>
+                        <word>cock-and-bull</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="163548">
+                        <pron url="57jFUpRUuCXiEYBUmfkHLw"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>das Ammenmärchen</repr>
+                    <words>
+                        <word>das Ammenmärchen</word>
+                    </words>
+                    <search>
+                        <word>Ammenmärchen</word>
+                    </search>
+                    <ibox ajaxid="363548">
+                        <pron url="87YYyiyQbsoANBD9bXt6Pg"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="63552">
+                <side hc="1" lang="en">
+                    <repr>cock-and-bull
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>cock-and-bull story</word>
+                    </words>
+                    <search>
+                        <word>cock-and-bull</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="163552">
+                        <pron url="57jFUpRUuCXiEYBUmfkHLw"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Räubergeschichte</repr>
+                    <words>
+                        <word>die Räubergeschichte</word>
+                    </words>
+                    <search>
+                        <word>Räubergeschichte</word>
+                    </search>
+                    <ibox ajaxid="363552">
+                        <pron url="BJxockbI4PhEPMfh4aALcQ"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="90714">
+                <side hc="1" lang="en">
+                    <repr>detective
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>detective story</word>
+                    </words>
+                    <search>
+                        <word>detective</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="190714">
+                        <pron url="PqehQnQt7-nunUOp83GXAg"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>der Detektivroman</repr>
+                    <words>
+                        <word>der Detektivroman</word>
+                    </words>
+                    <search>
+                        <word>Detektivroman</word>
+                    </search>
+                    <ibox ajaxid="390714">
+                        <pron url="zSbd1WsJxc-QmG_P4SA3IQ"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="785530">
+                <side hc="1" lang="en">
+                    <repr>detective
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>detective story</word>
+                    </words>
+                    <search>
+                        <word>detective</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1785530">
+                        <pron url="PqehQnQt7-nunUOp83GXAg"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>der Krimi &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Krimis
+                        </small>
+                    </repr>
+                    <words>
+                        <word>der Krimi</word>
+                    </words>
+                    <search>
+                        <word>Krimi</word>
+                    </search>
+                    <ibox ajaxid="3785530">
+                        <pron url="qqIhY_ZwkAOI3uM5IeC6Bg"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHylCibUO_9ROcDG0HPGhR9At5X2wvBS8KXQRytlS2dAUFVrrf_XdG-xKqnuPfwa_CiBv8dUI29hVF09yb5zfLrxK2HHx0QbbKYVznukG29RBF07qZ5j_QrFI0BbXtA6QTCJzntUX0ao-AEVkN"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="90715">
+                <side hc="1" lang="en">
+                    <repr>detective
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>detective story</word>
+                    </words>
+                    <search>
+                        <word>detective</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="190715">
+                        <pron url="PqehQnQt7-nunUOp83GXAg"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>der Kriminalroman &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Kriminalromane
+                        </small>
+                    </repr>
+                    <words>
+                        <word>der Kriminalroman</word>
+                    </words>
+                    <search>
+                        <word>Kriminalroman</word>
+                    </search>
+                    <ibox ajaxid="390715">
+                        <pron url="UhOBzssur26zByIec_fkzQ"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHyxCnrUEsN5IdWasA5HfVdw0tXKWnlajKSFwlbkOo7BJcNW5ZZXdF8F90B3xxVXZUBwVxuRlgbRUeTu2O_mnLNgn2Ezx3RLbQEUX87Rl1Lomc0HcBvy7Q-gp1Ijx0QPbSEE3n7ln2NwudGO5Y_u7Q984qBf733XwI"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="100508">
+                <side hc="1" lang="en">
+                    <repr>droll
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>droll story</word>
+                    </words>
+                    <search>
+                        <word>droll</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1100508">
+                        <pron url="KLErYnHtSTlm9wTxHsRmag"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>der Schwank &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Schwänke
+                        </small>
+                    </repr>
+                    <words>
+                        <word>der Schwank</word>
+                    </words>
+                    <search>
+                        <word>Schwank</word>
+                    </search>
+                    <ibox ajaxid="3100508">
+                        <pron url="48m3bTRrwzNo_f3Bv2rToQ"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHy9CmrUBttgIaSe1ZZGmUtAhtXzGtja5N_Z8kLtj4N8uEU_UXdXoMMBz1Cvp6FyRISxvn6UBgtVUFRzSb5LfLqlK2HLxwAzZISIdld9ruN1ISXK9Y5bfIrhK0HbR8w61TCQVkv0O3dpIFUO9H4nVLMjUs"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="998815">
+                <side hc="1" lang="en">
+                    <repr>everyday
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>everyday story</word>
+                    </words>
+                    <search>
+                        <word>everyday</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1998815">
+                        <pron url="xTOEQV0BlxQfMcQ1eAqNhw"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Alltagsgeschichte</repr>
+                    <words>
+                        <word>die Alltagsgeschichte</word>
+                    </words>
+                    <search>
+                        <word>Alltagsgeschichte</word>
+                    </search>
+                    <ibox ajaxid="3998815">
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="115831">
+                <side hc="1" lang="en">
+                    <repr>fairy
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>fairy story</word>
+                    </words>
+                    <search>
+                        <word>fairy</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1115831">
+                        <pron url="jrPAirLpjblZ4g7Sg34Y1w"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>das Märchen &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Märchen
+                        </small>
+                    </repr>
+                    <words>
+                        <word>das Märchen</word>
+                    </words>
+                    <search>
+                        <word>Märchen</word>
+                    </search>
+                    <ibox ajaxid="3115831">
+                        <pron url="iXjKZURivTq9ISDa8wy2IQ"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHypCnrUNtN5IdWasA5HfVdw0tXKWmFYS5Gtvk7sK3bEpN3flZ_HnLs1z0ALP1VfbMkxplbFSZbNHFTzSb52MLN0k0hLx3QfFVEEDlbBSdb5PGSLMCJvRQ9dIlDuS3Q7dbCl0_79j2dhDbT3YZetss"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="117420">
+                <side hc="1" lang="en">
+                    <repr>feature
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>feature story</word>
+                    </words>
+                    <search>
+                        <word>feature</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1117420">
+                        <pron url="EV_2-elLRvWCngCOQuhtIA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>längerer Beitrag</repr>
+                    <words>
+                        <word>längerer Beitrag</word>
+                    </words>
+                    <search>
+                        <word>längerer</word>
+                        <word>Beitrag</word>
+                    </search>
+                    <ibox ajaxid="3117420">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="119556">
+                <side hc="1" lang="en">
+                    <repr>film <b>story</b>
+                        <small>
+                            <i>(Brit.)</i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>film story</word>
+                    </words>
+                    <search>
+                        <word>film</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1119556">
+                        <pron url="jcOai6aWcKaVIKcQu-9sPw"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Filmhandlung</repr>
+                    <words>
+                        <word>die Filmhandlung</word>
+                    </words>
+                    <search>
+                        <word>Filmhandlung</word>
+                    </search>
+                    <ibox ajaxid="3119556">
+                        <pron url="WxI2ZEiTTCxnyWTKimvCCw"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="785652">
+                <side hc="1" lang="en">
+                    <repr>fisherman's
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>fisherman's story</word>
+                    </words>
+                    <search>
+                        <word>fisherman's</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1785652">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>abenteuerliche Geschichte</repr>
+                    <words>
+                        <word>abenteuerliche Geschichte</word>
+                    </words>
+                    <search>
+                        <word>abenteuerliche</word>
+                        <word>Geschichte</word>
+                    </search>
+                    <ibox ajaxid="3785652">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="785653">
+                <side hc="1" lang="en">
+                    <repr>fisherman's
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>fisherman's story</word>
+                    </words>
+                    <search>
+                        <word>fisherman's</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1785653">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>das Anglerlatein &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_nopl">kein Pl.</t>
+                                </m>
+                            </i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>das Anglerlatein</word>
+                    </words>
+                    <search>
+                        <word>Anglerlatein</word>
+                    </search>
+                    <ibox ajaxid="3785653">
+                        <pron url="oflt3Q56uxXfnEiLNS6M-w"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHypCnrUNtN9IcxWoB9GhS9csqx6PuAa8fSZcnLADo7BKfG6sBp27NdBxzSf3527BcyANz99S0dJHaTW8UpCxfLUz0h-ctWzdJCIdlt2qxdRHA1WxUpPRJolysYuc3260aix087xj2dkKfCfcZfmwVq1BzhDxAA5Py"
+                                  word=""/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="749986">
+                <side hc="1" lang="en">
+                    <repr>front-page
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>front-page story</word>
+                    </words>
+                    <search>
+                        <word>front-page</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1749986">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>der Aufmacher &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Aufmacher
+                        </small>
+                    </repr>
+                    <words>
+                        <word>der Aufmacher</word>
+                    </words>
+                    <search>
+                        <word>Aufmacher</word>
+                    </search>
+                    <ibox ajaxid="3749986">
+                        <pron url="ew_TGD9-qDO2p9wGZeg4jA"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHypCmrUKstVNbyP2G5G4St5KrGKauAbsAS5olrYOubJDbxvUXu3oLt1y0A7IxWLZfRkXibEbe7BIT0OqZfGyLNUz0htR1QvbSEkX-7tl1bAsdOa2Cs28LNkn0hrJ3Q_7JEQV89xDsLhnEUG2CvGtJqdYABRxR"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="132966">
+                <side hc="1" lang="en">
+                    <repr>ghost
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>ghost story</word>
+                    </words>
+                    <search>
+                        <word>ghost</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1132966">
+                        <pron url="4VHnzvxRc9xH9a6oKTkAJQ"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Geistergeschichte</repr>
+                    <words>
+                        <word>die Geistergeschichte</word>
+                    </words>
+                    <search>
+                        <word>Geistergeschichte</word>
+                    </search>
+                    <ibox ajaxid="3132966">
+                        <pron url="DfietnYgg4dvXKdPnrnwwQ"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="844392">
+                <side hc="1" lang="en">
+                    <repr>intermediate
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>intermediate story</word>
+                    </words>
+                    <search>
+                        <word>intermediate</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1844392">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>das Hochparterre &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Hochparterres
+                        </small>
+                    </repr>
+                    <words>
+                        <word>das Hochparterre</word>
+                    </words>
+                    <search>
+                        <word>Hochparterre</word>
+                    </search>
+                    <ibox ajaxid="3844392">
+                        <pron url="-PlAdnyxx51CU8Xwq4FqDA"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHyNCkrUBvtgIaSe1ZZGmUtAhtXfGuiayKCltibAbo7JUeBjUXu3oLt1y0A7IxWLZfRkXibEb8b1IeXi5Z4bfG7kUvXX3sWzRLSwVmsHuz85PICK9AZXR6sop3HPx_2K4SEAR19zrsLwiF0O9H4fVJsBKAAzH-"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="844394">
+                <side hc="1" lang="en">
+                    <repr>intermediate
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>intermediate story</word>
+                    </words>
+                    <search>
+                        <word>intermediate</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1844394">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>das Zwischengeschoss</repr>
+                    <words>
+                        <word>das Zwischengeschoss</word>
+                    </words>
+                    <search>
+                        <word>Zwischengeschoss</word>
+                    </search>
+                    <ibox ajaxid="3844394">
+                        <pron url="uKoUsh83yIrVz2B6Wb2MTw"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="174668">
+                <side hc="1" lang="en">
+                    <repr>love
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>love story</word>
+                    </words>
+                    <search>
+                        <word>love</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1174668">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Liebesgeschichte</repr>
+                    <words>
+                        <word>die Liebesgeschichte</word>
+                    </words>
+                    <search>
+                        <word>Liebesgeschichte</word>
+                    </search>
+                    <ibox ajaxid="3174668">
+                        <pron url="URxcVp4xIptgWGSgGKmOmw"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="1000068">
+                <side hc="1" lang="en">
+                    <repr>old
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>old story</word>
+                    </words>
+                    <search>
+                        <word>old</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="11000068">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>der Einheitsbrei &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Einheitsbreie
+                        </small>
+                    </repr>
+                    <words>
+                        <word>der Einheitsbrei</word>
+                    </words>
+                    <search>
+                        <word>Einheitsbrei</word>
+                    </search>
+                    <ibox ajaxid="31000068">
+                        <pron url="Xs4omVo22CAqsLn2q1_iaQ"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHy5CkrUcst5OdWasA5HfVdw0tXKWkFa4Li11krYbs6RUeOexfPzkKu9IyC3z5m7BdCIgmtEdha5CHSmLZ4bfJr5KjWXzsWzRLSIVmt9vv9RnF0WxUpiwKrpKvXX_sGzZKQB599lnuPGkFSXUZZmwVqVA2ADxAAh0e"
+                                  word=""/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="687561">
+                <side hc="1" lang="en">
+                    <repr>picture
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>picture story</word>
+                    </words>
+                    <search>
+                        <word>picture</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1687561">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Bildergeschichte</repr>
+                    <words>
+                        <word>die Bildergeschichte</word>
+                    </words>
+                    <search>
+                        <word>Bildergeschichte</word>
+                    </search>
+                    <ibox ajaxid="3687561">
+                        <pron url="YQR98dPwHcLqzNYLApZcVA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="234283">
+                <side hc="1" lang="en">
+                    <repr>rags-to-riches
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>rags-to-riches story</word>
+                    </words>
+                    <search>
+                        <word>rags-to-riches</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1234283">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>
+                        <i>Geschichte vom Tellerwäscher, der zum Millionär wurde</i>
+                    </repr>
+                    <words>
+                        <word>Geschichte vom Tellerwäscher, der zum Millionär wurde</word>
+                    </words>
+                    <search>
+                        <word>Tellerwäscher</word>
+                        <word>Millionär</word>
+                    </search>
+                    <ibox ajaxid="3234283">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="1141033">
+                <side hc="1" lang="en">
+                    <repr>shaggy-dog
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>shaggy-dog story</word>
+                    </words>
+                    <search>
+                        <word>shaggy-dog</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="11141033">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>endlos langer Witz ohne Pointe</repr>
+                    <words>
+                        <word>endlos langer Witz ohne Pointe</word>
+                    </words>
+                    <search>
+                        <word>endlos</word>
+                        <word>langer</word>
+                        <word>Witz</word>
+                        <word>Pointe</word>
+                    </search>
+                    <ibox ajaxid="31141033">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="263245">
+                <side hc="1" lang="en">
+                    <repr>short
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>short story</word>
+                    </words>
+                    <search>
+                        <word>short</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1263245">
+                        <pron url="n1HuWknnITKDXX6BP2Xu9Q"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Kurzgeschichte</repr>
+                    <words>
+                        <word>die Kurzgeschichte</word>
+                    </words>
+                    <search>
+                        <word>Kurzgeschichte</word>
+                    </search>
+                    <ibox ajaxid="3263245">
+                        <pron url="FsR1AeVNCGV_Yb3yZE8uHQ"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="355025">
+                <side hc="1" lang="en">
+                    <repr>trumped-up
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>trumped-up story</word>
+                    </words>
+                    <search>
+                        <word>trumped-up</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1355025">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>erdichtete Geschichte</repr>
+                    <words>
+                        <word>erdichtete Geschichte</word>
+                    </words>
+                    <search>
+                        <word>erdichtete</word>
+                        <word>Geschichte</word>
+                    </search>
+                    <ibox ajaxid="3355025">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="29667">
+                <side hc="1" lang="en">
+                    <repr>attic
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>attic story</word>
+                    </words>
+                    <search>
+                        <word>attic</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="129667">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>das Dachstockwerk</repr>
+                    <words>
+                        <word>das Dachstockwerk</word>
+                    </words>
+                    <search>
+                        <word>Dachstockwerk</word>
+                    </search>
+                    <ibox ajaxid="329667">
+                        <pron url="ex5hAPRlVkTCRW_Vbxlrfg"/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="132967">
+                <side hc="1" lang="en">
+                    <repr>ghost
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>ghost story</word>
+                    </words>
+                    <search>
+                        <word>ghost</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1132967">
+                        <pron url="4VHnzvxRc9xH9a6oKTkAJQ"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Gespenstergeschichte</repr>
+                    <words>
+                        <word>die Gespenstergeschichte</word>
+                    </words>
+                    <search>
+                        <word>Gespenstergeschichte</word>
+                    </search>
+                    <ibox ajaxid="3132967">
+                        <pron url="IGNVLJeRPmh3zjspj1A_Og"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="169603">
+                <side hc="1" lang="en">
+                    <repr>life
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>life story</word>
+                    </words>
+                    <search>
+                        <word>life</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1169603">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Lebensgeschichte</repr>
+                    <words>
+                        <word>die Lebensgeschichte</word>
+                    </words>
+                    <search>
+                        <word>Lebensgeschichte</word>
+                    </search>
+                    <ibox ajaxid="3169603">
+                        <pron url="firHk4p17NSIE3PB_0gQKA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="192234">
+                <side hc="1" lang="en">
+                    <repr>mystery
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>mystery story</word>
+                    </words>
+                    <search>
+                        <word>mystery</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1192234">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>die Detektivgeschichte</repr>
+                    <words>
+                        <word>die Detektivgeschichte</word>
+                    </words>
+                    <search>
+                        <word>Detektivgeschichte</word>
+                    </search>
+                    <ibox ajaxid="3192234">
+                        <pron url="6QJG35LnsQz-mBJU0KWjqQ"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <entry uid="192233">
+                <side hc="1" lang="en">
+                    <repr>mystery
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>mystery story</word>
+                    </words>
+                    <search>
+                        <word>mystery</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1192233">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>der Krimi &#160;
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="forms_pl_form">Pl.:</t>
+                                </m>
+                            </i>
+                            die Krimis
+                        </small>
+                    </repr>
+                    <words>
+                        <word>der Krimi</word>
+                    </words>
+                    <search>
+                        <word>Krimi</word>
+                    </search>
+                    <ibox ajaxid="3192233">
+                        <pron url="qqIhY_ZwkAOI3uM5IeC6Bg"/>
+                        <flecttab stemType="noun"
+                                  url="?kvz=4dkrADn71HeCbYC86wSPgvtmz_-hDVHylCibUO_9ROcDG0HPGhR9At5X2wvBS8KXQRytlS2dAUFVrrf_XdG-xKqnuPfwa_CiBv8dUI29hVF09yb5zfLrxK2HHx0QbbKYVznukG29RBF07qZ5j_QrFI0BbXtA6QTCJzntUX0ao-AEVkN"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="noun" catnum="0"/>
+                </info>
+            </entry>
+            <minprio val="0x1bc8208989dc6f9b" fixedSect="1" cnt="47"/>
+        </section>
+        <section sctnum="1" sctName="verb" sctTitle="Verbs" sctCount="4" sctTotalCnt="4" sctDirectCnt="0">
+            <entry uid="312164">
+                <side hc="1" lang="en">
+                    <repr>to corroborate a <b>story</b>
+                        <small>|&#160;corroborated, corroborated&#160;|</small>
+                    </repr>
+                    <words>
+                        <word>to corroborate a story</word>
+                    </words>
+                    <search>
+                        <word>corroborate</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1312164">
+                        <pron url="Q3zv-iFoM_PBenHjSUWHcw"/>
+                        <flecttab stemType="verb"
+                                  url="?kvz=4dkrADn71HeCbYCs67UP8lumz53RnXJXtClKUDp95DdWasA5HfVNsltHXGnW64LCt7_6hM2-RVHTa5ApLoSb8ymG2UugejNEkRysV6yMAUFVvrZ-zhLOhAoHaLsQzsAC1t1"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>eine Geschichte bestätigen</repr>
+                    <words>
+                        <word>eine Geschichte bestätigen</word>
+                    </words>
+                    <search>
+                        <word>Geschichte</word>
+                        <word>bestätigen</word>
+                    </search>
+                    <ibox ajaxid="3312164">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="verb" catnum="1"/>
+                </info>
+            </entry>
+            <entry uid="320408">
+                <side hc="1" lang="en">
+                    <repr>to fudge a <b>story</b>
+                        <small>|&#160;fudged, fudged&#160;|</small>
+                    </repr>
+                    <words>
+                        <word>to fudge a story</word>
+                    </words>
+                    <search>
+                        <word>fudge</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1320408">
+                        <pron url="XHKS6-BwBg4fN6og8pcQUg"/>
+                        <flecttab stemType="verb"
+                                  url="?kvz=4dkrADn71HeCbYCs67UP8lumz53RnXJXtClKUDp95DdWasA5HfVNsltHXGnW64LCt7_6hM2-RVHTa5ApfoU7okjXT35GXBcjANyN1_5d0mF3O9H4W8G7dAABCI9"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>sich
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="grm_dat">Dat.</t>
+                                </m>
+                            </sup>
+                        </small>
+                        eine Geschichte aus den Fingern saugen
+                    </repr>
+                    <words>
+                        <word>sich eine Geschichte aus den Fingern saugen</word>
+                    </words>
+                    <search>
+                        <word>Geschichte</word>
+                        <word>Fingern</word>
+                        <word>saugen</word>
+                    </search>
+                    <ibox ajaxid="3320408">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="verb" catnum="1"/>
+                </info>
+            </entry>
+            <entry uid="328086">
+                <side hc="1" lang="en">
+                    <repr>to make up a <b>story</b>
+                        <small>|&#160;made, made&#160;|</small>
+                    </repr>
+                    <words>
+                        <word>to make up a story</word>
+                    </words>
+                    <search>
+                        <word>make</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1328086">
+                        <pron url="IqCDC0ugcvniOHjh4Lq_7Q"/>
+                        <flecttab stemType="verb"
+                                  url="?kvz=4dkrADn71HeCbYCs67UP8lumz53RnXK3d4loUOut5DdWasA5HfVNsltHXGnW64LCt7_6hM2-RVXTa5ApzoR7RM6R_uxHbjSDgu88hb2-UmZSKoC5voAN2St"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>eine Geschichte erfinden</repr>
+                    <words>
+                        <word>eine Geschichte erfinden</word>
+                    </words>
+                    <search>
+                        <word>Geschichte</word>
+                        <word>erfinden</word>
+                    </search>
+                    <ibox ajaxid="3328086">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="verb" catnum="1"/>
+                </info>
+            </entry>
+            <entry uid="1166333">
+                <side hc="1" lang="en">
+                    <repr>to add another
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        (to sth.)
+                        <small>|&#160;added, added&#160;|</small>
+                    </repr>
+                    <words>
+                        <word>to add another story</word>
+                        <word>to add another story to sth.</word>
+                    </words>
+                    <search>
+                        <word>add</word>
+                        <word>another</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="11166333">
+                        <flecttab stemType="verb"
+                                  url="?kvz=4dkrADn71HeCbYCs67UP8lumz53RnXH3B-mrUdpdgIaSe1ZZGnQ9Em5XfxvCK9Jixu2d9SotFSXSa1UpW0QrdM6R_ux3bjSDgu88hb2-UmZSKoC5voANvKx"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>(etw.
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="grm_acc">Akk.</t>
+                                </m>
+                            </sup>
+                        </small>
+                        ) aufstocken
+                        <small>|&#160;stockte auf, aufgestockt&#160;|</small>
+                    </repr>
+                    <words>
+                        <word>aufstocken</word>
+                        <word>etw. aufstocken</word>
+                    </words>
+                    <search>
+                        <word>aufstocken</word>
+                    </search>
+                    <ibox ajaxid="31166333">
+                        <pron url="eW1jT14uCSFaugto5LI7cQ"/>
+                        <flecttab stemType="verb"
+                                  url="?kvz=4dkrADn71HeCbYC86wUP8lumz53RnXJXdzloEOstBOGkWrB9yhJrcsqhmeuQzsYCFVl7YJ1a0BdXrYDZ-wLLkzuWL7uAfsNUt7j6onsrxNEkbpY8PdA-VQ6xfr4WbsZQUoe-Vlo6ZDdC-gUvvRVtFE5Rqc3wajMIdvlblS1tAXFVu3J_bdJsUI0B_PzXXRL2odkbYKpbobeEPYH4W8G7BKAAoge"
+                                  word=""/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="verb" catnum="1"/>
+                </info>
+            </entry>
+        </section>
+        <section sctnum="2" sctName="adjadv" sctTitle="Adjectives/Adverbs" sctCount="11" sctTotalCnt="11"
+                 sctDirectCnt="0">
+            <entry uid="1137742">
+                <side hc="1" lang="en">
+                    <repr>one-
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <m>/</m>
+                        one-storey
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="BE">BE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="grm_adj">adj.</t>
+                                </m>
+                            </i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>one-story</word>
+                        <word>one-storey</word>
+                    </words>
+                    <search>
+                        <word>one-story</word>
+                        <word>one-storey</word>
+                    </search>
+                    <ibox ajaxid="11137742">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>eingeschossig</repr>
+                    <words>
+                        <word>eingeschossig</word>
+                    </words>
+                    <search>
+                        <word>eingeschossig</word>
+                    </search>
+                    <ibox ajaxid="31137742">
+                        <flecttab stemType="adj"
+                                  url="?kvz=4dkrADn71HeCbYC86wR_ckq3v60GmOM3B-lbUKvd9KfhP2G5G4St5KrGKauAbsJQZ0nLUKy9NJVTKrCJXZF8F90BrJxWXZUBwVxuBlAAxuS"
+                                  word=""/>
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="adjective" catnum="2"/>
+                </info>
+            </entry>
+            <entry uid="1137845">
+                <side hc="1" lang="en">
+                    <repr>single-
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <m>/</m>
+                        single-storey
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="BE">BE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="grm_adj">adj.</t>
+                                </m>
+                            </i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>single-story</word>
+                        <word>single-storey</word>
+                    </words>
+                    <search>
+                        <word>single-story</word>
+                        <word>single-storey</word>
+                    </search>
+                    <ibox ajaxid="11137845">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>eingeschossig</repr>
+                    <words>
+                        <word>eingeschossig</word>
+                    </words>
+                    <search>
+                        <word>eingeschossig</word>
+                    </search>
+                    <ibox ajaxid="31137845">
+                        <flecttab stemType="adj"
+                                  url="?kvz=4dkrADn71HeCbYC86wR_ckq3v60GmOM3B-lbUKvd9KfhP2G5G4St5KrGKauAbsJQZ0nLUKy9NJVTKrCJXZF8F90BrJxWXZUBwVxuBlAAxuS"
+                                  word=""/>
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="adjective" catnum="2"/>
+                </info>
+            </entry>
+            <entry uid="1138206">
+                <side hc="1" lang="en">
+                    <repr>four-
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="grm_adj">adj.</t>
+                                </m>
+                            </i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>four-story</word>
+                    </words>
+                    <search>
+                        <word>four-story</word>
+                    </search>
+                    <ibox ajaxid="11138206">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>viergeschossig</repr>
+                    <words>
+                        <word>viergeschossig</word>
+                    </words>
+                    <search>
+                        <word>viergeschossig</word>
+                    </search>
+                    <ibox ajaxid="31138206">
+                        <flecttab stemType="adj"
+                                  url="?kvz=4dkrADn71HeCbYC86wR_ckq3v60GmOM3B-lbUKvd9KfhP2G5G4St5KrGKauAbsNm10ibAI0b89jSirBo2yM9Bx1CXz527BcyANz99SANz9Z"
+                                  word=""/>
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="adjective" catnum="2"/>
+                </info>
+            </entry>
+            <entry uid="734227">
+                <side hc="1" lang="en">
+                    <repr>single-
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <m>/</m>
+                        single-storey
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="BE">BE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="grm_adj">adj.</t>
+                                </m>
+                            </i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>single-story</word>
+                        <word>single-storey</word>
+                    </words>
+                    <search>
+                        <word>single-story</word>
+                        <word>single-storey</word>
+                    </search>
+                    <ibox ajaxid="1734227">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>einstöckig</repr>
+                    <words>
+                        <word>einstöckig</word>
+                    </words>
+                    <search>
+                        <word>einstöckig</word>
+                    </search>
+                    <ibox ajaxid="3734227">
+                        <flecttab stemType="adj"
+                                  url="?kvz=4dkrADn71HeCbYC86wR_ckq3v60GmOM3B-lbUKvd9KfhP2G5G4St5KrGKauAbsJSZ0iLYbZxhFdgyxY5DHG-VM6h_-3XbiSDUp8ecBU"
+                                  word=""/>
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="adjective" catnum="2"/>
+                </info>
+            </entry>
+            <entry uid="1137976">
+                <side hc="1" lang="en">
+                    <repr>two-
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <m>/</m>
+                        two-storey
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="BE">BE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="grm_adj">adj.</t>
+                                </m>
+                            </i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>two-story</word>
+                        <word>two-storey</word>
+                    </words>
+                    <search>
+                        <word>two-story</word>
+                        <word>two-storey</word>
+                    </search>
+                    <ibox ajaxid="11137976">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>zweigeschossig</repr>
+                    <words>
+                        <word>zweigeschossig</word>
+                    </words>
+                    <search>
+                        <word>zweigeschossig</word>
+                    </search>
+                    <ibox ajaxid="31137976">
+                        <flecttab stemType="adj"
+                                  url="?kvz=4dkrADn71HeCbYC86wR_ckq3v60GmOM3B-lbUKvd9KfhP2G5G4St5KrGKauAbsOm1qkrAI0b89jSirBo2yM9Bx1CXz527BcyANz99SAN5l9"
+                                  word=""/>
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="adjective" catnum="2"/>
+                </info>
+            </entry>
+            <entry uid="777452">
+                <side hc="1" lang="en">
+                    <repr>two-
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <m>/</m>
+                        two-storey
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="BE">BE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="grm_adj">adj.</t>
+                                </m>
+                            </i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>two-story</word>
+                        <word>two-storey</word>
+                    </words>
+                    <search>
+                        <word>two-story</word>
+                        <word>two-storey</word>
+                    </search>
+                    <ibox ajaxid="1777452">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>zweistöckig</repr>
+                    <words>
+                        <word>zweistöckig</word>
+                    </words>
+                    <search>
+                        <word>zweistöckig</word>
+                    </search>
+                    <ibox ajaxid="3777452">
+                        <flecttab stemType="adj"
+                                  url="?kvz=4dkrADn71HeCbYC86wR_ckq3v60GmOM3B-lbUKvd9KfhP2G5G4St5KrGKauAbsOi1qkrEcEqCQftKzCJLZF8F90B3xxVXZUBwVxuBlAA3Py"
+                                  word=""/>
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="adjective" catnum="2"/>
+                </info>
+            </entry>
+            <entry uid="790941">
+                <side hc="1" lang="en">
+                    <repr>multi-
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <m>/</m>
+                        multi-storey
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="BE">BE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="grm_adj">adj.</t>
+                                </m>
+                            </i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>multi-story</word>
+                        <word>multi-storey</word>
+                    </words>
+                    <search>
+                        <word>multi-story</word>
+                        <word>multi-storey</word>
+                    </search>
+                    <ibox ajaxid="1790941">
+                        <pron url="KiJVX-atbVIC5Y0fd5wvhQ"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>mehrgeschossig</repr>
+                    <words>
+                        <word>mehrgeschossig</word>
+                    </words>
+                    <search>
+                        <word>mehrgeschossig</word>
+                    </search>
+                    <ibox ajaxid="3790941">
+                        <flecttab stemType="adj"
+                                  url="?kvz=4dkrADn71HeCbYC86wR_ckq3v60GmOM3B-lbUKvd9KfhP2G5G4St5KrGKauAbsLWB4ibAI0b89jSirBo2yM9Bx1CXz527BcyANz99SANdtl"
+                                  word=""/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="adjective" catnum="2"/>
+                </info>
+            </entry>
+            <entry uid="737473">
+                <side hc="1" lang="en">
+                    <repr>multi-
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <m>/</m>
+                        multi-storey
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="BE">BE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="grm_adj">adj.</t>
+                                </m>
+                            </i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>multi-story</word>
+                        <word>multi-storey</word>
+                    </words>
+                    <search>
+                        <word>multi-story</word>
+                        <word>multi-storey</word>
+                    </search>
+                    <ibox ajaxid="1737473">
+                        <pron url="KiJVX-atbVIC5Y0fd5wvhQ"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>mehrstöckig</repr>
+                    <words>
+                        <word>mehrstöckig</word>
+                    </words>
+                    <search>
+                        <word>mehrstöckig</word>
+                    </search>
+                    <ibox ajaxid="3737473">
+                        <flecttab stemType="adj"
+                                  url="?kvz=4dkrADn71HeCbYC86wR_ckq3v60GmOM3B-lbUKvd9KfhP2G5G4St5KrGKauAbsLSB4ibEcEqCQftKzCJLZF8F90B3xxVXZUBwVxuBlAAmz2"
+                                  word=""/>
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="adjective" catnum="2"/>
+                </info>
+            </entry>
+            <entry uid="790942">
+                <side hc="1" lang="en">
+                    <repr>multi-
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <m>/</m>
+                        multi-storey
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="BE">BE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="grm_adj">adj.</t>
+                                </m>
+                            </i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>multi-story</word>
+                        <word>multi-storey</word>
+                    </words>
+                    <search>
+                        <word>multi-story</word>
+                        <word>multi-storey</word>
+                    </search>
+                    <ibox ajaxid="1790942">
+                        <pron url="KiJVX-atbVIC5Y0fd5wvhQ"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>vielstöckig</repr>
+                    <words>
+                        <word>vielstöckig</word>
+                    </words>
+                    <search>
+                        <word>vielstöckig</word>
+                    </search>
+                    <ibox ajaxid="3790942">
+                        <flecttab stemType="adj"
+                                  url="?kvz=4dkrADn71HeCbYC86wR_ckq3v60GmOM3B-lbUKvd9KfhP2G5G4St5KrGKauAbsNi10l7EcEqCQftKzCJLZF8F90B3xxVXZUBwVxuBlAAFde"
+                                  word=""/>
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="adjective" catnum="2"/>
+                </info>
+            </entry>
+            <entry uid="266496">
+                <side hc="1" lang="en">
+                    <repr>six-<b>story</b>-high
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="grm_adj">adj.</t>
+                                </m>
+                            </i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>six-story-high</word>
+                    </words>
+                    <search>
+                        <word>six-story-high</word>
+                    </search>
+                    <ibox ajaxid="1266496">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>sechsgeschossig</repr>
+                    <words>
+                        <word>sechsgeschossig</word>
+                    </words>
+                    <search>
+                        <word>sechsgeschossig</word>
+                    </search>
+                    <ibox ajaxid="3266496">
+                        <flecttab stemType="adj"
+                                  url="?kvz=4dkrADn71HeCbYC86wR_ckq3v60GmOM3B-lbUKvd9KfhP2G5G4St5KrGKauAbsM6t4k7IctLwmPVi3HIa8KrxW5SPu3WbjSDgu88hb2-euA"
+                                  word=""/>
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="adjective" catnum="2"/>
+                </info>
+            </entry>
+            <entry uid="296161">
+                <side hc="1" lang="en">
+                    <repr>three-
+                        <b>story</b>
+                        <small>
+                            <sup>
+                                <m>
+                                    <t n="AE">AE</t>
+                                </m>
+                            </sup>
+                        </small>
+                        <m>&#160;</m>
+                        <small>
+                            <i>
+                                <m>
+                                    <t n="grm_adj">adj.</t>
+                                </m>
+                            </i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>three-story</word>
+                    </words>
+                    <search>
+                        <word>three-story</word>
+                    </search>
+                    <ibox ajaxid="1296161">
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>dreigeschossig</repr>
+                    <words>
+                        <word>dreigeschossig</word>
+                    </words>
+                    <search>
+                        <word>dreigeschossig</word>
+                    </search>
+                    <ibox ajaxid="3296161">
+                        <flecttab stemType="adj"
+                                  url="?kvz=4dkrADn71HeCbYC86wR_ckq3v60GmOM3B-lbUKvd9KfhP2G5G4St5KrGKauAbsJG1vkrAI0b89jSirBo2yM9Bx1CXz527BcyANz99SANQIh"
+                                  word=""/>
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="adjective" catnum="2"/>
+                </info>
+            </entry>
+        </section>
+        <section sctnum="6" sctName="phrase" sctTitle="Phrases/Collocations" sctCount="12" sctTotalCnt="12"
+                 sctDirectCnt="0">
+            <entry uid="385923">
+                <side hc="1" lang="en">
+                    <repr>A likely <b>story</b>!
+                    </repr>
+                    <words>
+                        <word>A likely story!</word>
+                    </words>
+                    <search>
+                        <word>likely</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1385923">
+                        <pron url="KszJs0xwyWfnJR3RhRz-cA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>Wer's glaubt, wird selig!</repr>
+                    <words>
+                        <word>Wer's glaubt, wird selig!</word>
+                    </words>
+                    <search>
+                        <word>Wer's</word>
+                        <word>glaubt</word>
+                        <word>wird</word>
+                        <word>selig</word>
+                    </search>
+                    <ibox ajaxid="3385923">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="interjection" catnum="9"/>
+                </info>
+            </entry>
+            <entry uid="387037">
+                <side hc="1" lang="en">
+                    <repr>a fake
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>a fake story</word>
+                    </words>
+                    <search>
+                        <word>fake</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1387037">
+                        <pron url="h6WRJeLXVXZOfPic7t5fkA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>eine erfundene Geschichte</repr>
+                    <words>
+                        <word>eine erfundene Geschichte</word>
+                    </words>
+                    <search>
+                        <word>erfundene</word>
+                        <word>Geschichte</word>
+                    </search>
+                    <ibox ajaxid="3387037">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info></info>
+            </entry>
+            <entry uid="387163">
+                <side hc="1" lang="en">
+                    <repr>a made-up
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>a made-up story</word>
+                    </words>
+                    <search>
+                        <word>made-up</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1387163">
+                        <pron url="vN4tXzmE7Y5_T6ltOOr9Kg"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>eine erfundene Geschichte</repr>
+                    <words>
+                        <word>eine erfundene Geschichte</word>
+                    </words>
+                    <search>
+                        <word>erfundene</word>
+                        <word>Geschichte</word>
+                    </search>
+                    <ibox ajaxid="3387163">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info></info>
+            </entry>
+            <entry uid="312041">
+                <side hc="1" lang="en">
+                    <repr>to cook up a <b>story</b>
+                        <small>
+                            <i>[
+                                <m>
+                                    <t n="phr_fig">fig.</t>
+                                </m>
+                                ]
+                            </i>
+                        </small>
+                    </repr>
+                    <words>
+                        <word>to cook up a story</word>
+                    </words>
+                    <search>
+                        <word>cook</word>
+                        <word>story</word>
+                    </search>
+                    <meta></meta>
+                    <ibox ajaxid="1312041">
+                        <pron url="rRqczn6uFTk-fR14H9rtBg"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>eine Geschichte erfinden</repr>
+                    <words>
+                        <word>eine Geschichte erfinden</word>
+                    </words>
+                    <search>
+                        <word>Geschichte</word>
+                        <word>erfinden</word>
+                    </search>
+                    <ibox ajaxid="3312041">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info>
+                    <category type="verb" catnum="1"/>
+                </info>
+            </entry>
+            <entry uid="392759">
+                <side hc="1" lang="en">
+                    <repr>to cut a long <b>story</b> short
+                    </repr>
+                    <words>
+                        <word>to cut a long story short</word>
+                    </words>
+                    <search>
+                        <word>cut</word>
+                        <word>long</word>
+                        <word>story</word>
+                        <word>short</word>
+                    </search>
+                    <ibox ajaxid="1392759">
+                        <pron url="VNyVTU7l3PET35MBiM0W6g"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>kurz und gut</repr>
+                    <words>
+                        <word>kurz und gut</word>
+                    </words>
+                    <search>
+                        <word>kurz</word>
+                        <word>gut</word>
+                    </search>
+                    <ibox ajaxid="3392759">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info></info>
+            </entry>
+            <entry uid="392758">
+                <side hc="1" lang="en">
+                    <repr>to cut a long <b>story</b> short
+                    </repr>
+                    <words>
+                        <word>to cut a long story short</word>
+                    </words>
+                    <search>
+                        <word>cut</word>
+                        <word>long</word>
+                        <word>story</word>
+                        <word>short</word>
+                    </search>
+                    <ibox ajaxid="1392758">
+                        <pron url="VNyVTU7l3PET35MBiM0W6g"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>der langen Rede kurzer Sinn</repr>
+                    <words>
+                        <word>der langen Rede kurzer Sinn</word>
+                    </words>
+                    <search>
+                        <word>langen</word>
+                        <word>Rede</word>
+                        <word>kurzer</word>
+                        <word>Sinn</word>
+                    </search>
+                    <ibox ajaxid="3392758">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info></info>
+            </entry>
+            <entry uid="790076">
+                <side hc="1" lang="en">
+                    <repr>It's always the same old <b>story</b>.
+                    </repr>
+                    <words>
+                        <word>It's always the same old story.</word>
+                    </words>
+                    <search>
+                        <word>It's</word>
+                        <word>always</word>
+                        <word>old</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1790076">
+                        <pron url="yYL2bghc_dctpV_BWz01Kg"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>Immer die alte Leier.</repr>
+                    <words>
+                        <word>Immer die alte Leier.</word>
+                    </words>
+                    <search>
+                        <word>immer</word>
+                        <word>alte</word>
+                        <word>Leier</word>
+                    </search>
+                    <ibox ajaxid="3790076">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info></info>
+            </entry>
+            <entry uid="477901">
+                <side hc="1" lang="en">
+                    <repr>to cut a long <b>story</b> short
+                    </repr>
+                    <words>
+                        <word>to cut a long story short</word>
+                    </words>
+                    <search>
+                        <word>cut</word>
+                        <word>long</word>
+                        <word>story</word>
+                        <word>short</word>
+                    </search>
+                    <ibox ajaxid="1477901">
+                        <pron url="VNyVTU7l3PET35MBiM0W6g"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>lange Rede, kurzer Sinn</repr>
+                    <words>
+                        <word>lange Rede, kurzer Sinn</word>
+                    </words>
+                    <search>
+                        <word>lange</word>
+                        <word>Rede</word>
+                        <word>kurzer</word>
+                        <word>Sinn</word>
+                    </search>
+                    <ibox ajaxid="3477901">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info></info>
+            </entry>
+            <entry uid="679044">
+                <side hc="1" lang="en">
+                    <repr>to cut a long <b>story</b> short
+                    </repr>
+                    <words>
+                        <word>to cut a long story short</word>
+                    </words>
+                    <search>
+                        <word>cut</word>
+                        <word>long</word>
+                        <word>story</word>
+                        <word>short</word>
+                    </search>
+                    <ibox ajaxid="1679044">
+                        <pron url="VNyVTU7l3PET35MBiM0W6g"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>langer Rede kurzer Sinn</repr>
+                    <words>
+                        <word>langer Rede kurzer Sinn</word>
+                    </words>
+                    <search>
+                        <word>langer</word>
+                        <word>Rede</word>
+                        <word>kurzer</word>
+                        <word>Sinn</word>
+                    </search>
+                    <ibox ajaxid="3679044">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info></info>
+            </entry>
+            <entry uid="392760">
+                <side hc="1" lang="en">
+                    <repr>to cut a long <b>story</b> short
+                    </repr>
+                    <words>
+                        <word>to cut a long story short</word>
+                    </words>
+                    <search>
+                        <word>cut</word>
+                        <word>long</word>
+                        <word>story</word>
+                        <word>short</word>
+                    </search>
+                    <ibox ajaxid="1392760">
+                        <pron url="VNyVTU7l3PET35MBiM0W6g"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>um es kurz zu machen</repr>
+                    <words>
+                        <word>um es kurz zu machen</word>
+                    </words>
+                    <search>
+                        <word>kurz</word>
+                        <word>machen</word>
+                    </search>
+                    <ibox ajaxid="3392760">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info></info>
+            </entry>
+            <entry uid="327615">
+                <side hc="1" lang="en">
+                    <repr>to make a long <b>story</b> short
+                    </repr>
+                    <words>
+                        <word>to make a long story short</word>
+                    </words>
+                    <search>
+                        <word>make</word>
+                        <word>long</word>
+                        <word>story</word>
+                        <word>short</word>
+                    </search>
+                    <ibox ajaxid="1327615">
+                        <pron url="XBxZ04Ajb3bZZ7RXe1Uo8g"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>kurz gesagt</repr>
+                    <words>
+                        <word>kurz gesagt</word>
+                    </words>
+                    <search>
+                        <word>kurz</word>
+                        <word>gesagt</word>
+                    </search>
+                    <ibox ajaxid="3327615">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info></info>
+            </entry>
+            <entry uid="397437">
+                <side hc="1" lang="en">
+                    <repr>The two <b>stories</b> agree.
+                    </repr>
+                    <words>
+                        <word>The two stories agree.</word>
+                    </words>
+                    <search>
+                        <word>stories</word>
+                        <word>agree</word>
+                    </search>
+                    <ibox ajaxid="1397437">
+                        <pron url="r_KUoqU5KCj7U5WZs4ckTA"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>Beide Geschichten stimmen überein.</repr>
+                    <words>
+                        <word>Beide Geschichten stimmen überein.</word>
+                    </words>
+                    <search>
+                        <word>Geschichten</word>
+                        <word>stimmen</word>
+                        <word>überein</word>
+                    </search>
+                    <ibox ajaxid="3397437">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info></info>
+            </entry>
+        </section>
+        <section sctnum="7" sctName="example" sctTitle="Examples" sctCount="4" sctTotalCnt="4" sctDirectCnt="0">
+            <entry uid="379869">
+                <side hc="1" lang="en">
+                    <repr>That's another <b>story</b>.
+                    </repr>
+                    <words>
+                        <word>That's another story.</word>
+                    </words>
+                    <search>
+                        <word>That's</word>
+                        <word>another</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1379869">
+                        <pron url="4dvsi7WwqHTwu7sSuwfBCg"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>Das steht auf einem anderen Blatt.</repr>
+                    <words>
+                        <word>Das steht auf einem anderen Blatt.</word>
+                    </words>
+                    <search>
+                        <word>steht</word>
+                        <word>anderen</word>
+                        <word>Blatt</word>
+                    </search>
+                    <ibox ajaxid="3379869">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info></info>
+            </entry>
+            <entry uid="379868">
+                <side hc="1" lang="en">
+                    <repr>That's another <b>story</b>.
+                    </repr>
+                    <words>
+                        <word>That's another story.</word>
+                    </words>
+                    <search>
+                        <word>That's</word>
+                        <word>another</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1379868">
+                        <pron url="4dvsi7WwqHTwu7sSuwfBCg"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>Das steht auf einem anderen Blatt geschrieben.</repr>
+                    <words>
+                        <word>Das steht auf einem anderen Blatt geschrieben.</word>
+                    </words>
+                    <search>
+                        <word>steht</word>
+                        <word>anderen</word>
+                        <word>Blatt</word>
+                        <word>geschrieben</word>
+                    </search>
+                    <ibox ajaxid="3379868">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info></info>
+            </entry>
+            <entry uid="379867">
+                <side hc="1" lang="en">
+                    <repr>That's another <b>story</b>.
+                    </repr>
+                    <words>
+                        <word>That's another story.</word>
+                    </words>
+                    <search>
+                        <word>That's</word>
+                        <word>another</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1379867">
+                        <pron url="4dvsi7WwqHTwu7sSuwfBCg"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>Das ist eine Sache für sich.</repr>
+                    <words>
+                        <word>Das ist eine Sache für sich.</word>
+                    </words>
+                    <search>
+                        <word>ist</word>
+                        <word>Sache</word>
+                        <word>sich</word>
+                    </search>
+                    <ibox ajaxid="3379867">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info></info>
+            </entry>
+            <entry uid="380645">
+                <side hc="1" lang="en">
+                    <repr>a cracking good
+                        <b>story</b>
+                    </repr>
+                    <words>
+                        <word>a cracking good story</word>
+                    </words>
+                    <search>
+                        <word>cracking</word>
+                        <word>good</word>
+                        <word>story</word>
+                    </search>
+                    <ibox ajaxid="1380645">
+                        <pron url="SkYQN8VJtXBlg-RzBe18jg"/>
+                        <extlink/>
+                    </ibox>
+                </side>
+                <side hc="0" lang="de">
+                    <repr>eine großartige Geschichte</repr>
+                    <words>
+                        <word>eine großartige Geschichte</word>
+                    </words>
+                    <search>
+                        <word>großartige</word>
+                        <word>Geschichte</word>
+                    </search>
+                    <ibox ajaxid="3380645">
+                        <extlink/>
+                        <linguatec/>
+                    </ibox>
+                </side>
+                <info></info>
+            </entry>
+        </section>
+    </sectionlist>
+    <similar>
+        <side lang="en">
+            <word>shory</word>
+            <word vocab="1">sorry</word>
+            <word>stogy</word>
+            <word>stony</word>
+            <word vocab="1">store</word>
+            <word>stork</word>
+            <word vocab="1">storm</word>
+            <word>stray</word>
+        </side>
+        <side lang="de">
+            <word>stör</word>
+            <word>store</word>
+        </side>
+    </similar>
+    <baseform>
+        <side lang="en"></side>
+        <side lang="de"></side>
+    </baseform>
+    <forumRef count="30">
+        <link href="/forum/viewWrongentry.php?idThread=1218491&#38;idForum=7" lastChangeDate="1376546999"
+              lastChangeTime="" lastChangeEpochSec="1376546999" followupCnt="9" domain="">
+            <subject>four-story - vorgeschossig</subject>
+            <teaser>Weder der Duden noch der Wortschatz der Uni Leipzig kennt das Wort "vorgeschossig". Google liefert
+                g
+            </teaser>
+        </link>
+        <link href="/forum/viewWrongentry.php?idThread=1284048&#38;idForum=7" lastChangeDate="1424040947"
+              lastChangeTime="" lastChangeEpochSec="1424040947" followupCnt="4" domain="">
+            <subject>cover story - Geschichte</subject>
+            <teaser>cover story n. 1. A featured story in a magazine that concerns the image on the cover. 2. A false
+                st
+            </teaser>
+        </link>
+        <link href="/forum/viewWrongentry.php?idThread=53467&#38;idForum=7" lastChangeDate="1141059245"
+              lastChangeTime="" lastChangeEpochSec="1141059245" followupCnt="0" domain="">
+            <subject>background story - Rahmenhandlung</subject>
+            <teaser>I am pretty sure about the first suggestion concerning the meaning of the word background story.
+                In
+            </teaser>
+        </link>
+        <link href="/forum/viewWrongentry.php?idThread=1009224&#38;idForum=7" lastChangeDate="1290285351"
+              lastChangeTime="" lastChangeEpochSec="1290285351" followupCnt="18" domain="">
+            <subject>cock-and-bull story - Ammenmärchen</subject>
+            <teaser>"cock-and-bull story" sollte meiner Meinung nach für den US-amerikanischen Sprachraum mit dem
+                Zusat
+            </teaser>
+        </link>
+        <link href="/forum/viewWrongentry.php?idThread=257140&#38;idForum=7" lastChangeDate="1208441568"
+              lastChangeTime="" lastChangeEpochSec="1208441568" followupCnt="7" domain="">
+            <subject>story - Geschoss</subject>
+            <teaser>I believe that another way that you can say Geschoss in English is 'floor level.' One can say "I
+                li
+            </teaser>
+        </link>
+        <link href="/forum/viewWrongentry.php?idThread=1331822&#38;idForum=3" lastChangeDate="1472803495"
+              lastChangeTime="" lastChangeEpochSec="1472803495" followupCnt="3" domain="">
+            <subject>übergeordnete Story - primary story</subject>
+            <teaser>Es geht um die Neuausrichtung eines Unternehmens in der Schweiz. Hier wird auf das Buch
+                "Storytellin
+            </teaser>
+        </link>
+        <link href="/forum/viewGeneraldiscussion.php?idThread=653971&#38;idForum=4" lastChangeDate="1232303810"
+              lastChangeTime="" lastChangeEpochSec="1232303810" followupCnt="4" domain="">
+            <subject>Mystery Story</subject>
+            <teaser>Moin! Ich hab morgen eine Englisch Schularbeit und wollte wissen, ob der Text in Ordnung ist...
+                wür
+            </teaser>
+        </link>
+        <link href="/forum/viewGeneraldiscussion.php?idThread=419186&#38;idForum=4" lastChangeDate="1200373015"
+              lastChangeTime="" lastChangeEpochSec="1200373015" followupCnt="0" domain="">
+            <subject>Short story</subject>
+            <teaser>Hello! I really wanted to try an English text, and here it is! I'm very thankful for any feedback
+                y
+            </teaser>
+        </link>
+        <link href="/forum/viewGeneraldiscussion.php?idThread=268149&#38;idForum=4" lastChangeDate="1175091878"
+              lastChangeTime="" lastChangeEpochSec="1175091878" followupCnt="4" domain="">
+            <subject>short story</subject>
+            <teaser>also wollt mal bei euch nachfragen ob ihr mir vielleicht tipps geben könnt. schreibe morgen eine
+                sh
+            </teaser>
+        </link>
+        <link href="/forum/viewGeneraldiscussion.php?idThread=665154&#38;idForum=4" lastChangeDate="1236240323"
+              lastChangeTime="" lastChangeEpochSec="1236240323" followupCnt="22" domain="">
+            <subject>funny story?!</subject>
+            <teaser>A wealthy Chicago businessman goes to Vegas and loses all but three dollars. He comes out of the
+                cas
+            </teaser>
+        </link>
+        <link href="/forum/viewGeneraldiscussion.php?idThread=1035960&#38;idForum=4" lastChangeDate="1296224180"
+              lastChangeTime="" lastChangeEpochSec="1296224180" followupCnt="7" domain="">
+            <subject>fictive story</subject>
+            <teaser>Hello, i wrote a fictive story about a clone which lives on an island. i want you to help me with
+                t
+            </teaser>
+        </link>
+        <link href="/forum/viewGeneraldiscussion.php?idThread=1070387&#38;idForum=4" lastChangeDate="1305898671"
+              lastChangeTime="" lastChangeEpochSec="1305898671" followupCnt="12" domain="">
+            <subject>fictious story</subject>
+            <teaser>Terrorists often tried to win the control of an airplane but there are not ten cases in history at
+                w
+            </teaser>
+        </link>
+        <link href="/forum/viewWrongentry.php?idThread=192546&#38;idForum=7" lastChangeDate="1081947684"
+              lastChangeTime="" lastChangeEpochSec="1081947684" followupCnt="11" domain="">
+            <subject>a story for reflexion - eine nachdenkliche Geschichte</subject>
+            <teaser>Das steht unter Zusammengesetzte Einträge, und dann noch mal unter Beispiele (diesmal mit
+                Artikel).
+            </teaser>
+        </link>
+        <link href="/forum/viewWrongentry.php?idThread=436940&#38;idForum=7" lastChangeDate="1202663872"
+              lastChangeTime="" lastChangeEpochSec="1202663872" followupCnt="4" domain="">
+            <subject>to cut a long story short - lange Rede kurzer Sinn</subject>
+            <teaser>Das Englische ist natürlich korrekt. Nur hat hier jemand schlicht die Syntax der deutschen
+                Entsprec
+            </teaser>
+        </link>
+        <link href="/forum/viewWrongentry.php?idThread=808638&#38;idForum=6" lastChangeDate="1254253054"
+              lastChangeTime="" lastChangeEpochSec="1254253054" followupCnt="1" domain="">
+            <subject>Nativity Story - Weihnachtsgeschichte</subject>
+            <teaser>The Nativity Story is always played around Christmas. Die Weihnachtsgeschichte wird immer um
+                Weichna
+            </teaser>
+        </link>
+        <link href="/forum/viewWrongentry.php?idThread=937529&#38;idForum=6" lastChangeDate="1275579311"
+              lastChangeTime="" lastChangeEpochSec="1275579311" followupCnt="0" domain="">
+            <subject>human interest story - Alltagsgeschichte</subject>
+            <teaser>Bsp: "[...] human interest stories more than doubled in the period of study [...]." (Thussu, News
+                as
+            </teaser>
+        </link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=1274490&#38;idForum=2" lastChangeDate="1416055596"
+              lastChangeTime="" lastChangeEpochSec="1416055596" followupCnt="2" domain="">
+            <subject>quest story</subject>
+            <teaser>In world literature the journey to hell is a perennial motif of hero legends and quest stories,
+                and
+            </teaser>
+        </link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=1045794&#38;idForum=2" lastChangeDate="1298498798"
+              lastChangeTime="" lastChangeEpochSec="1298498798" followupCnt="3" domain="">
+            <subject>wire story</subject>
+            <teaser>"Our sample included daily newspaper and wire stories published in February 2004." Weiß jemand, wa
+            </teaser>
+        </link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=449695&#38;idForum=2" lastChangeDate="1204211708"
+              lastChangeTime="" lastChangeEpochSec="1204211708" followupCnt="3" domain="">
+            <subject>four-story</subject>
+            <teaser>I found myself back on East Seventy-eigth Street, staring acros at the four-story brownstore where
+                I
+            </teaser>
+        </link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=629990&#38;idForum=2" lastChangeDate="1228426054"
+              lastChangeTime="" lastChangeEpochSec="1228426054" followupCnt="4" domain="">
+            <subject>story-song</subject>
+            <teaser>The Song of Solomon is a story-song that pours out of the King's heart as he ponders the wonders
+                of
+            </teaser>
+        </link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=1216819&#38;idForum=2" lastChangeDate="1375285382"
+              lastChangeTime="" lastChangeEpochSec="1375285382" followupCnt="9" domain="">
+            <subject>Fish story</subject>
+            <teaser>In English, a fish story is a story that becomes more and more exaggerated every time it is told.
+                I
+            </teaser>
+        </link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=1095654&#38;idForum=2" lastChangeDate="1313481438"
+              lastChangeTime="" lastChangeEpochSec="1313481438" followupCnt="6" domain="">
+            <subject>non-story</subject>
+            <teaser>literary non-stories Terminus aus der Medienwelt (Zeitung)</teaser>
+        </link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=1110655&#38;idForum=2" lastChangeDate="1319721271"
+              lastChangeTime="" lastChangeEpochSec="1319721271" followupCnt="5" domain="">
+            <subject>suspense story</subject>
+            <teaser>Joan Aiken wrote many different types of works: horror, suspense, mystery, fantasy and adventure
+                sto
+            </teaser>
+        </link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=28321&#38;idForum=2" lastChangeDate="1148743687"
+              lastChangeTime="" lastChangeEpochSec="1148743687" followupCnt="5" domain="">
+            <subject>equity story</subject>
+            <teaser>Ein Wirtschaftsfachbegriff, der sich mit den Chancen/Risiken eines Unternehmens befasst. Wie
+                überse
+            </teaser>
+        </link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=308109&#38;idForum=2" lastChangeDate="1182181516"
+              lastChangeTime="" lastChangeEpochSec="1182181516" followupCnt="4" domain="">
+            <subject>story line</subject>
+            <teaser>If we look at these closely, we will discover that each one of them, in fact, has the same basic
+                sto
+            </teaser>
+        </link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=330923&#38;idForum=2" lastChangeDate="1186346619"
+              lastChangeTime="" lastChangeEpochSec="1186346619" followupCnt="6" domain="">
+            <subject>outside story</subject>
+            <teaser>Es handelt sich um eine Überschrift: Israel: The outside story http://www.powerlineblog.com/archi
+            </teaser>
+        </link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=1215427&#38;idForum=2" lastChangeDate="1374322486"
+              lastChangeTime="" lastChangeEpochSec="1374322486" followupCnt="8" domain="">
+            <subject>product story</subject>
+            <teaser>You need to know where the sightlines are within your store so that you can display key product
+                stor
+            </teaser>
+        </link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=1129653&#38;idForum=2" lastChangeDate="1327510458"
+              lastChangeTime="" lastChangeEpochSec="1327510458" followupCnt="3" domain="">
+            <subject>story department</subject>
+            <teaser>In relation to the film/TV industry, sorry I don't really know what they do (I was told the
+                English
+            </teaser>
+        </link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=285139&#38;idForum=2" lastChangeDate="1178201833"
+              lastChangeTime="" lastChangeEpochSec="1178201833" followupCnt="3" domain="">
+            <subject>story-writing</subject>
+            <teaser>Case studies, story-writing, self-assessment are also respectable ways to indicate development in
+                ed
+            </teaser>
+        </link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=26787&#38;idForum=2" lastChangeDate="1146572368"
+              lastChangeTime="" lastChangeEpochSec="1146572368" followupCnt="2" domain="">
+            <subject>Story board</subject>
+            <teaser>Wie könnte man denn im Zusammenhang mit Microsoft PowerPoint den Begriff "Story Board" möglichst p
+            </teaser>
+        </link>
+    </forumRef>
+    <forum>
+        <link href="/forum/viewWrongentry.php?idThread=1218491&#38;idForum=7">four-story - vorgeschossig</link>
+        <link href="/forum/viewWrongentry.php?idThread=1284048&#38;idForum=7">cover story - Geschichte</link>
+        <link href="/forum/viewWrongentry.php?idThread=53467&#38;idForum=7">background story - Rahmenhandlung</link>
+        <link href="/forum/viewWrongentry.php?idThread=1009224&#38;idForum=7">cock-and-bull story - Ammenmärchen</link>
+        <link href="/forum/viewWrongentry.php?idThread=257140&#38;idForum=7">story - Geschoss</link>
+        <link href="/forum/viewWrongentry.php?idThread=1331822&#38;idForum=3">übergeordnete Story - primary story</link>
+        <link href="/forum/viewGeneraldiscussion.php?idThread=653971&#38;idForum=4">Mystery Story</link>
+        <link href="/forum/viewGeneraldiscussion.php?idThread=419186&#38;idForum=4">Short story</link>
+        <link href="/forum/viewGeneraldiscussion.php?idThread=268149&#38;idForum=4">short story</link>
+        <link href="/forum/viewGeneraldiscussion.php?idThread=665154&#38;idForum=4">funny story?!</link>
+        <link href="/forum/viewGeneraldiscussion.php?idThread=1035960&#38;idForum=4">fictive story</link>
+        <link href="/forum/viewGeneraldiscussion.php?idThread=1070387&#38;idForum=4">fictious story</link>
+        <link href="/forum/viewWrongentry.php?idThread=192546&#38;idForum=7">a story for reflexion - eine nachdenkliche
+            Geschichte
+        </link>
+        <link href="/forum/viewWrongentry.php?idThread=436940&#38;idForum=7">to cut a long story short - lange Rede
+            kurzer Sinn
+        </link>
+        <link href="/forum/viewWrongentry.php?idThread=808638&#38;idForum=6">Nativity Story - Weihnachtsgeschichte
+        </link>
+        <link href="/forum/viewWrongentry.php?idThread=937529&#38;idForum=6">human interest story - Alltagsgeschichte
+        </link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=1274490&#38;idForum=2">quest story</link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=1045794&#38;idForum=2">wire story</link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=449695&#38;idForum=2">four-story</link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=629990&#38;idForum=2">story-song</link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=1216819&#38;idForum=2">Fish story</link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=1095654&#38;idForum=2">non-story</link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=1110655&#38;idForum=2">suspense story</link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=28321&#38;idForum=2">equity story</link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=308109&#38;idForum=2">story line</link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=330923&#38;idForum=2">outside story</link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=1215427&#38;idForum=2">product story</link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=1129653&#38;idForum=2">story department</link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=285139&#38;idForum=2">story-writing</link>
+        <link href="/forum/viewUnsolvedquery.php?idThread=26787&#38;idForum=2">Story board</link>
+    </forum>
+    <ffsynlist word="story">
+        <side lang="en">
+            <word vocab="1">narrative</word>
+            <word vocab="1">tale</word>
+            <word>bullet</word>
+            <word vocab="1">missile</word>
+            <word vocab="1">level</word>
+            <word>anecdote</word>
+            <word>projectile</word>
+            <word vocab="1">storey</word>
+            <word vocab="1">floor</word>
+        </side>
+        <side lang="de">
+            <word>Generationsroman</word>
+            <word>Handlungslinie</word>
+            <word>Saga</word>
+        </side>
+    </ffsynlist>
+    <servicedata entries="802,212" queries="7,914,982" hostName="leonue1" timeUsed="3700" login="false" nick=""
+                 swName="LEO GmbH, dictQuery/64Sgr - Version 5.33/20161013130900" osName="SunOS"/>
+</xml>
