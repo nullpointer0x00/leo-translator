@@ -62,3 +62,28 @@ class TestParser(unittest.TestCase):
         database = MySqlDataSouce()
         id = database.add_search_history("TEST", "TE")
         self.assertTrue(id > 0)
+
+    def test_database_add_english_word(self):
+        database = MySqlDataSouce()
+        id = database.add_english_word("TEST", "NOUN")
+        self.assertTrue(id > 0)
+
+    def test_find_english_word(self):
+        database = MySqlDataSouce()
+        result = database.find_english_word("TEST", "NOUN")
+        self.assertIsNotNone(result)
+
+    def test_database_add_deutsch_wod(self):
+        database = MySqlDataSouce()
+        id = database.add_deutsch_word("TEST", "NOUN", "N")
+        self.assertTrue(id > 0)
+
+    def test_find_deutsch_word(self):
+        database = MySqlDataSouce()
+        result = database.find_deutsch_word("TEST", "NOUN")
+        self.assertIsNotNone(result)
+
+    def test_add_english_deutsch_translation(self):
+        database = MySqlDataSouce()
+        result = database.add_english_deutsch_translation(1,1)
+        self.assertTrue(result > 0)
