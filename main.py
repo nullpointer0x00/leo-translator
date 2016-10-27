@@ -23,7 +23,7 @@ for word in words :
     for trans in translations :
         englishWord = dao.find_english_word(trans["en"], "NOUN")
         if englishWord :
-            endId = englishWord[0]
+            engId = englishWord[0]
         else:
             engId = dao.add_english_word(trans["en"], "NOUN")
 
@@ -43,7 +43,8 @@ for word in words :
         else:
             deutId = dao.add_deutsch_word(trans["de"], "NOUN", gender)
         dao.add_english_deutsch_translation(engId, deutId)
-    time.sleep(2)
+    if len(translations) > 0:
+        time.sleep(2)
 
 
 

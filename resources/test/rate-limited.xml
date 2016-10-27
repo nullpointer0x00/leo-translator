@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+    <dictQueryError errorType="clientRate">
+        <login ipaddress="67.176.25.237"/>
+        <short limit="1.500" rate="0.062"/>
+        <long limit="0.200" rate="0.540"/>
+        <message>login "67.176.25.237" exceeds its rate limits: short limit =1.500, actual=0.062, long limit 0.200,
+            actual 0.540
+        </message>
+    </dictQueryError>
+</xml>

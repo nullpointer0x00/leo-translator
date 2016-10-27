@@ -32,21 +32,21 @@ class MySqlDataSouce:
         query = ("INSERT INTO EnglishWord "
                       "(`Word`, `Type`) "
                       "VALUES (%s, %s)")
-        data = (unicode(word), type)
+        data = (str(word), type)
         return self.insert_record(query, data)
 
     def add_deutsch_word(self, word, type, gender) :
         query = ("INSERT INTO DeutschWord "
                       "(`Word`, `Type`, `Gender`) "
                       "VALUES (%s, %s, %s)")
-        data = (unicode(word), type, gender)
+        data = (str(word), type, gender)
         return self.insert_record(query, data)
 
     def find_english_word(self, word, type):
         cursor = self.cnx.cursor()
         type ="NOUN"
         query = ("SELECT * FROM EnglishWord where `Word` = %s and `Type` = %s")
-        data = (unicode(word), str(type))
+        data = (str(word), str(type))
         cursor.execute(query, data)
         rows = cursor.fetchall()
         if len(rows) is not 0 :
@@ -55,7 +55,7 @@ class MySqlDataSouce:
     def find_deutsch_word(self, word, type):
         cursor = self.cnx.cursor()
         query = ("SELECT * FROM DeutschWord where `Word` = %s and `Type` = %s")
-        data = (unicode(word), str(type))
+        data = (str(word), str(type))
         cursor.execute(query, data)
         rows = cursor.fetchall()
         if len(rows) is not 0 :
