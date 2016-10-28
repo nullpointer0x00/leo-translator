@@ -1,4 +1,4 @@
-import mysql.connector
+import pymysql
 from datetime import date, datetime, timedelta
 
 class MySqlDataSouce:
@@ -12,7 +12,7 @@ class MySqlDataSouce:
             'database': 'Uebersetzung',
             'raise_on_warnings': True,
         }
-        self.cnx = mysql.connector.connect(**self.config)
+        self.cnx = pymysql.connector.connect(**self.config)
 
     def __del__(self):
         try:

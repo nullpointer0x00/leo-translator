@@ -1,6 +1,6 @@
 import requests
-from lxml import html
 from parser import LeoParser
+from parser import RateLimitException
 from fetcher import LeoFetcher
 from wordextractor import WordExtractor
 from database import MySqlDataSouce
@@ -13,7 +13,7 @@ class TestParser(unittest.TestCase):
         parser = LeoParser()
         with open('resources/test/story-search.xml', 'r') as hall:
             data = hall.read()
-        result = parser.extract_translation_nouns(data)
+        result = parser.extract_translation_nouns(data.encode('utf-8'))
         self.assertTrue(16, len(result))
         expected = [{"en":"story", "de":"die Geschichte"},
                     {"en":"story", "de":"das Geschoss"},
@@ -87,3 +87,10 @@ class TestParser(unittest.TestCase):
         database = MySqlDataSouce()
         result = database.add_english_deutsch_translation(1,1)
         self.assertTrue(result > 0)
+
+    def test_rate_limited(self) :
+        parser = LeoParser()
+        with open('resources/test/rate-limited.xml', 'r') as hall:
+            data = hall.read()
+        with self.assertRaises(RateLimitException) :
+            parser.extract_translation_nouns(data.encode("utf-8"))
