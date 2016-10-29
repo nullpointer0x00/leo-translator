@@ -1,5 +1,6 @@
 from fetcher import LeoFetcher
 from parser import LeoParser
+from parser import RateLimitException
 from database import MySqlDataSouce
 from wordextractor import WordExtractor
 import time
@@ -16,8 +17,18 @@ words = extractor.get_words_from_text(data)
 
 for word in words :
     print("Searching for word: " + word)
-    dao.add_search_history(word, "EN")
-    result = fetcher.search_english_word("EN", word)
+    id = dao.add_search_history(word, "EN")
+    if id <= 0 :
+        print("Adding search history record errored with : " + id)
+        continue
+    try:
+        result = fetcher.search_english_word("EN", word)
+    except RateLimitException as e:
+        print("Rate Limit exeception fetching: %s %s", word,  e.message)
+        dao.update_search_status(id, "ERROR")
+        time.sleep(10)
+        continue
+
     translations = parser.extract_translation_nouns(result)
     print("Translations: " + str(translations))
     for trans in translations :
@@ -43,8 +54,8 @@ for word in words :
         else:
             deutId = dao.add_deutsch_word(trans["de"], "NOUN", gender)
         dao.add_english_deutsch_translation(engId, deutId)
-    if len(translations) > 0:
-        time.sleep(2)
+    time.sleep(2)
+    dao.update_search_status(id, "SUCCESS")
 
 
 

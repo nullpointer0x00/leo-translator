@@ -1,6 +1,9 @@
 import pymysql
 from datetime import date, datetime, timedelta
 
+from pymysql import MySQLError
+
+
 class MySqlDataSouce:
 
     def __init__(self):
@@ -8,11 +11,10 @@ class MySqlDataSouce:
             'user': 'leo',
             'password': 'leopass',
             'host': '127.0.0.1',
-            'port' : '3406',
-            'database': 'Uebersetzung',
-            'raise_on_warnings': True,
+            'port' : 3406,
+            'database': 'Uebersetzung'
         }
-        self.cnx = pymysql.connector.connect(**self.config)
+        self.cnx = pymysql.connect(**self.config)
 
     def __del__(self):
         try:
@@ -30,8 +32,8 @@ class MySqlDataSouce:
 
     def update_search_status(self, id, status):
         query = ("UPDATE SearchHistory "
-                 "set STATUS = %s, Updated = now() "
-                 "WHERE id = %n")
+                 "set Status = %s, Updated = now() "
+                 "WHERE id = %s")
         data = (status, id)
         return self.insert_record(query, data)
 
@@ -83,5 +85,8 @@ class MySqlDataSouce:
             id = cursor.lastrowid
             self.cnx.commit()
             return id
+        except MySQLError as e:
+            print('Got error {!r}, errno is {}'.format(e, e.args[0]))
+            return -1
         except Exception :
             return -1

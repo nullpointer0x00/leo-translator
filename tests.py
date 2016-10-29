@@ -63,6 +63,11 @@ class TestParser(unittest.TestCase):
         id = database.add_search_history("TEST", "TE")
         self.assertTrue(id > 0)
 
+    def test_database_update_search_status(self):
+        database = MySqlDataSouce()
+        id = database.update_search_status(1, "SUCCESS")
+        self.assertEqual(0, id)
+
     def test_database_add_english_word(self):
         database = MySqlDataSouce()
         id = database.add_english_word("TEST", "NOUN")

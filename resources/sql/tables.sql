@@ -1,5 +1,3 @@
-# noinspection SqlNoDataSourceInspectionForFile
-CREATE DATABASE `Uebersetzung`;
 USE `Uebersetzung`;
 CREATE TABLE `Uebersetzung`.`SearchHistory` (
   `Id` BIGINT(20) NOT NULL AUTO_INCREMENT,
@@ -33,10 +31,10 @@ CREATE TABLE `Uebersetzung`.`DeutschWord` (
 
 CREATE TABLE `Uebersetzung`.`EnglishDeutschTranslation` (
   `Id` INT NOT NULL AUTO_INCREMENT,
-  `EnglishWordId` VARCHAR(256) NOT NULL,
-  `DeutschWordId` VARCHAR(256) NOT NULL,
+  `EnglishWordId` INT NOT NULL,
+  `DeutschWordId` INT NOT NULL,
   `Created` TIMESTAMP DEFAULT now(),
   `Updated` TIMESTAMP DEFAULT '0000-00-00 00:00:00',
   PRIMARY KEY (`Id`),
-  UNIQUE  INDEX (`DeutschWordId`, `EnglishWordId`)
+  UNIQUE  dwi_ewi (`DeutschWordId`, `EnglishWordId`)
 );
