@@ -28,6 +28,13 @@ class MySqlDataSouce:
         data = (searchTerm, lang)
         return self.insert_record(query, data)
 
+    def update_search_status(self, id, status):
+        query = ("UPDATE SearchHistory "
+                 "set STATUS = %s, Updated = now() "
+                 "WHERE id = %n")
+        data = (status, id)
+        return self.insert_record(query, data)
+
     def add_english_word(self, word, type) :
         query = ("INSERT INTO EnglishWord "
                       "(`Word`, `Type`) "

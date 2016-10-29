@@ -1,8 +1,11 @@
 #!/usr/bin/bash
 
+echo "Adding new mariadb repo to upgrade mariadb from v5.5 to v10"
+sudo cp /vagrant/MariaDB.repo /etc/yum.repos.d/.
+
 echo "Installing mariadb with yum..."
 sudo yum -y update
-sudo yum -y install mariadb-server
+sudo yum -y install MariaDB-server MariaDB-client
 sudo systemctl stop mariadb
 systemctl start mariadb
 
