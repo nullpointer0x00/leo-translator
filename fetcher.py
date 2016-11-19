@@ -1,4 +1,5 @@
 import requests
+import datetime
 from lxml import html
 
 class LeoFetcher:
@@ -11,11 +12,12 @@ class LeoFetcher:
 
     def __init__(self):
         self.baseUrl = "http://dict.leo.org/dictQuery/m-vocab/ende/query.xml"
-        self.params = "?tolerMode=nof&lp=ende&lang={0}&rmWords=off&rmSearch=on&search={1}&searchLoc=0&resultOrder=basic&multiwordShowSingle=on&pos=0&sectLenMax=100&n=1&t="
+        self.params = "?tolerMode=nof&lp=ende&lang={0}&rmWords=off&rmSearch=on&search={1}&searchLoc=0&resultOrder=basic&multiwordShowSingle=on&pos=0&sectLenMax=100&n=1&t={2}"
 
     def search_english_word(self, lang, word):
         session = requests.session()
-        url = self.baseUrl + self.params.format(lang, word)
+        time = datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%S.%mZ")
+        url = self.baseUrl + self.params.format(lang, word, time)
         print("Url %s", url)
         content = session.get(url, headers = self.headers).content
         print("---------Content-------------------")
