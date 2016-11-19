@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xml>
-    <dictQueryError errorType="clientPoolRate">
+    <dictQueryError errorType="unknown">
         <login ipaddress="162.243.160.173"/>
         <short limit="0.050" rate="0.062"/>
         <medium limit="0.020" rate="0.001"/>
         <long limit="0.010" rate="0.000"/>
-        <message>IP "162.243.160.173" exceeds its client pool limits: short limit =0.050, actual=0.062, medium limit
-            =0.020, actual=0.001, long limit 0.010, actual 0.000.
+        <message>uknown
         </message>
     </dictQueryError>
 </xml>

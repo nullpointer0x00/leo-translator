@@ -37,6 +37,13 @@ class MySqlDataSouce:
         data = (status, id)
         return self.insert_record(query, data)
 
+    def update_search_status_payload(self, id, status, payload):
+        query = ("UPDATE SearchHistory "
+                 "set Status = %s, ErrorPayload = %s, Updated = now() "
+                 "WHERE id = %s")
+        data = (status, payload, id)
+        return self.insert_record(query, data)
+
     def add_english_word(self, word, type):
         query = ("INSERT INTO EnglishWord "
                  "(`Word`, `Type`) "

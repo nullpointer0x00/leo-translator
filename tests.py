@@ -1,6 +1,8 @@
 import requests
 from parser import LeoParser
 from parser import RateLimitException
+from parser import ClientPoolRateException
+from parser import UnknownErrorException
 from fetcher import LeoFetcher
 from wordextractor import WordExtractor
 from database import MySqlDataSouce
@@ -68,6 +70,11 @@ class TestParser(unittest.TestCase):
         id = database.update_search_status(1, "SUCCESS")
         self.assertEqual(0, id)
 
+    def test_database_update_search_status_error_payload(self):
+        database = MySqlDataSouce()
+        id = database.update_search_status_payload(1, "ERROR", "abcdedfg")
+        self.assertEqual(0, id)
+
     def test_database_add_english_word(self):
         database = MySqlDataSouce()
         id = database.add_english_word("TEST", "NOUN")
@@ -98,4 +105,18 @@ class TestParser(unittest.TestCase):
         with open('resources/test/rate-limited.xml', 'r') as hall:
             data = hall.read()
         with self.assertRaises(RateLimitException) :
+            parser.extract_translation_nouns(data.encode("utf-8"))
+
+    def test_client_pool(self) :
+        parser = LeoParser()
+        with open('resources/test/client-pool-rate.xml', 'r') as hall:
+            data = hall.read()
+        with self.assertRaises(ClientPoolRateException) :
+            parser.extract_translation_nouns(data.encode("utf-8"))
+
+    def test_unknown_error(self) :
+        parser = LeoParser()
+        with open('resources/test/unknown-error.xml', 'r') as hall:
+            data = hall.read()
+        with self.assertRaises(UnknownErrorException) :
             parser.extract_translation_nouns(data.encode("utf-8"))
